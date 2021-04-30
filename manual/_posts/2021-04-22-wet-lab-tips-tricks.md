@@ -59,3 +59,8 @@ https://www.bioline.com/media/calculator/01_07.html
 -	Upon verification of strains, you can now streak out the small glycerol stocks to make proper 1ml stocks.
 -	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this. 
 -	Once done, use new adhesive film to re-cover the opened well.
+
+## Sterilizing multiwell plates using UV Crosslinker
+
+HELP! 
+How do I use the UV Crosslinker? How long should I sterilize?
