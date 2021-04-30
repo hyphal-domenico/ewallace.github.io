@@ -27,21 +27,41 @@ HELP: HOW DO WE ORDER DRY ICE IF THEY DON'T?
 
 ## DeNovix / nanodrop
 
-To get data from the nanodrop to datastore / lab notebook, ...
-To move data from the nanodrop to datastore you can put the file onto a USB. From the Report or Graph screen data can be exported and saved to a FAT32 formatted USB drive. A pdf can also be generated and saved to a USB. On the Graphs page spectral graphs can be screen captured and the png file may be exported and saved to a USB drive.
+To move data from from the nanodrop to lab notebook or datastore, you can put the file onto a USB drive.
+From the Report or Graph screen, data can be exported and saved to a FAT32 formatted USB drive.
+A pdf can also be generated and saved. On the Graphs page spectral graphs can be screen captured and the png file may be exported and saved to a USB drive.
+
+The nanodrop is also connected to the network, and it is theoretically possible to export by email.
+For more information, see the Data Export and Print Options section of the [Denovix DS-11 user guide](https://www.denovix.com/pdf/ds-11-series-user-guide.pdf).
 
 
 ## Lab tablet computers
 
+We have three lab tablet computers, two running android for notesm photos, etc., and one windows for the little microscope and scanners.
+
+### Android tablets
+
 HELP
 
-## Q-PCR Analysis
+### Windows tablet
 
-On the computer connected to the QPCR machine the generated files are stored in:
-My documents > Program files> Roche> Light cycler 480> Bin
-The files you want to save are:
-1) Absquant/2nd derivative max. Export the .iox AND .txt files
-2) Ct values, fit points: Click and drag the mouse over the wells you have used in your plate to highlight them. Click on Calculate at the bottom.Export the .txt file.
+HELP
+
+## qPCR Analysis
+
+On the computer connected to the Roche Lightcycler 480 qPCR machine in 3Waddington 3.18, the generated files are stored in:
+`My documents > Program files> Roche> Light cycler 480> Bin`
+
+Save multiple files directly from the Lightcycler software, ensuring that your name and the date 20yy-mm-dd are in the file title:
+1. From the navigator page select your experiment and export data in native .ixo format.
+2. From the same navigator page, export full data in plain-text .txt format.
+3. For Ct/Cq values, from the analysis page, go to "Ct values, fit points", calculate Ct values, then export the whole Ct table in plain-text format. If you used only some of the wells, click and drag the mouse over the wells you have used in your plate to highlight them before exporting.
+4. For Absquant/2nd derivative max. Export the .ixo AND .txt files. 
+
+Why both filetypes? 
+The `.ixo` files are good if you ever wanted to open them on the Roche lightcycler software again.
+The `.txt` files are good if you want to do anything else with the files, for example open in R or analyze with [tidyqpcr])(https://github.com/ewallace/tidyqpcr).
+
 
 ## Transformation fmol calculator
 
