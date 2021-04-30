@@ -18,6 +18,21 @@ This is a page for the random tips and tricks
 
 Remember, this is going to be on a public website, so no passwords or personal info.
 
+## Ordering outside of Sciquest
+
+If you need to order something that is not available on Sciquest and asks for a lab address, please make sure it gets to Graham Nicolson in Roger Land Stores. Use the address:
+
+Edward Wallace lab (HELP: is that correct? Otherwise how will it get to us?)  
+c/o Graham Nicolson  
+University of Edinburgh  
+School of Biological Sciences  
+G27 Roger Land Building  
+Alexander Crum Brown Road  
+Edinburgh  
+EH9 3FF  
+
+This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
+
 ## Dry ice
 
 Mostly for dry ice we get this from the Swann building lobby; ensure you have card access to the Swann building.
