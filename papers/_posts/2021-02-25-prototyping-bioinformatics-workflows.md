@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Using prototyping to choose a bioinformatics workflow management system"
-year: "2020"
-shortref: "Jackson <i>et al.</i> <i>PLoS Comput. Biol</i> 2020"
+year: "2021"
+shortref: "Jackson <i>et al.</i> <i>PLoS Comput. Biol</i> 2021"
 nickname: prototyping-workflows
 journal: "PLoS Computational Biology"
 volume: 17
