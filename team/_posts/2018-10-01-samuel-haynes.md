@@ -6,8 +6,8 @@ nickname: Sam
 handle: 
 email: samuel.haynes10@gmail.com
 twitter: 
-github: 
-ORCID: 
+github: @DimmestP
+ORCID: 0000-0002-3366-1812
 scholar: 
 image: /assets/images/team/samuel-haynes-2018.jpg
 alum: false
