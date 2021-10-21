@@ -101,6 +101,23 @@ Some resources on giving good presentations and lab meetings:
 * [How to survive and excel in lab meetings](https://sophtalksscience.com/2017/10/30/how-to-survive-your-first-lab-meeting/)
 
 
+## One-slide meetings
+
+In brief, everyone presents one slide on their recent work. Guidelines:
+
+* The slide is an opportunity for scientific feedback and discussion on your work.
+* You could present a result (a gel, a figure, an analysis, etc)
+* You could present the design for a future or in-progress experiment
+* You could present a cartoon or schematic figure to explain a mental model you're working with
+* The slide should have a title that is a sentence summarizing the message of the slide
+* 5 minutes is not a lot of time to explain lots of things. There is probably only time for one panel of a figure, or a small cartoon schematic followed by a result.
+* We don’t care how much you have done (everyone knows you have done a lot) - we all want 5 minutes of interesting scientific discussion.
+* Because the group is big, we will be keeping strictly to time and cutting off after 5 minutes. With a 1-minute warning.
+* Any questions, ask around.
+ 
+Claus Wilke’s blogpost, [share your preliminary work with other people](https://serialmentor.com/blog/2014/7/8/share-your-preliminary-work-with-other-people-even-if-you-think-its-crap), gives an eloquent perspective.
+
+
 # Journal club meetings (about fortnightly)
 
 From September 2021, we are going to try more regular dedicated journal clubs.
