@@ -8,7 +8,7 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated September 2021*
+# Meetings - *updated October 2021*
 {: .no_toc }
 
 This page covers basic expectations for meetings in the lab:
@@ -21,9 +21,8 @@ Meetings will be listed on the lab calendar.
 Meetings won't take place over holidays or when they clash with other events, like conferences that multiple people in the lab are involved in. 
 We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 
-For now, these meetings usually happen over zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
-When it's safe, hopefully soon, we hope to move back to in-person meetings.
-
+Meetings are in person where preferable, although it is usually possible to join by zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
+Please give enough notice (2 hours) ifyou will join a meeting by zoom, so that someone can set it up.
 
 
 # Lab meetings for everyone (weekly)
@@ -41,20 +40,20 @@ Lab meetings can take various formats:
 
 Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
 
+Currently Laura Tuck is organising the lab meeting schedule. Please give Laura at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
 
-## Timing - *updated September 2021*
 
-Lab meetings are **10:30-12:00 Mondays** over zoom.
+## Timing
 
-* 10:00 meeting opens, drift in with coffee/tea, chat and discuss lab business
+Lab meetings are **10:30-12:00 Mondays** in Waddington 1.07 (Oct 2021).
+
+* 10:15 meeting opens, drift in with coffee/tea, chat and discuss lab business
 * 10:30 prompt, presentation starts
 * 11:45 latest, show the last slide
 * Discuss any other lab business
 * 12:00, everyone should leave (reminder that ICMB Monday seminars are usually at this time)
 
 We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The new timetable seems to work well as long as we are disciplined about starting on time.
-
-PI is trying to book a meeting room (Sep 2021).
 
 
 ## Giving a Research update lab meeting
@@ -99,6 +98,23 @@ Some resources on giving good presentations and lab meetings:
 * [Giving a Good Talk, from Maya Schuldiner's mentoring page](https://mayaschuldiner.wixsite.com/schuldinerlab/mentoring)
 * [How to survive your first lab meeting](https://www.abcam.com/content/how-to-survive-your-first-lab-meeting)
 * [How to survive and excel in lab meetings](https://sophtalksscience.com/2017/10/30/how-to-survive-your-first-lab-meeting/)
+
+
+## One-slide meetings
+
+In brief, everyone presents one slide on their recent work. Guidelines:
+
+* The slide is an opportunity for scientific feedback and discussion on your work.
+* You could present a result (a gel, a figure, an analysis, etc)
+* You could present the design for a future or in-progress experiment
+* You could present a cartoon or schematic figure to explain a mental model you're working with
+* The slide should have a title that is a sentence summarizing the message of the slide
+* 5 minutes is not a lot of time to explain lots of things. There is probably only time for one panel of a figure, or a small cartoon schematic followed by a result.
+* We don’t care how much you have done (everyone knows you have done a lot) - we all want 5 minutes of interesting scientific discussion.
+* Because the group is big, we will be keeping strictly to time and cutting off after 5 minutes. With a 1-minute warning.
+* Any questions, ask around.
+ 
+Claus Wilke’s blogpost, [share your preliminary work with other people](https://serialmentor.com/blog/2014/7/8/share-your-preliminary-work-with-other-people-even-if-you-think-its-crap), gives an eloquent perspective.
 
 
 # Journal club meetings (about fortnightly)
