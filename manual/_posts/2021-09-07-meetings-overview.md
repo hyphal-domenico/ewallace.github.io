@@ -8,7 +8,7 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated September 2021*
+# Meetings - *updated October 2021*
 {: .no_toc }
 
 This page covers basic expectations for meetings in the lab:
@@ -21,9 +21,8 @@ Meetings will be listed on the lab calendar.
 Meetings won't take place over holidays or when they clash with other events, like conferences that multiple people in the lab are involved in. 
 We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 
-For now, these meetings usually happen over zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
-When it's safe, hopefully soon, we hope to move back to in-person meetings.
-
+Meetings are in person where preferable, although it is usually possible to join by zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
+Please give enough notice (2 hours) ifyou will join a meeting by zoom, so that someone can set it up.
 
 
 # Lab meetings for everyone (weekly)
@@ -41,20 +40,20 @@ Lab meetings can take various formats:
 
 Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
 
+Currently Laura Tuck is organising the lab meeting schedule. Please give Laura at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
 
-## Timing - *updated September 2021*
 
-Lab meetings are **10:30-12:00 Mondays** over zoom.
+## Timing
 
-* 10:00 meeting opens, drift in with coffee/tea, chat and discuss lab business
+Lab meetings are **10:30-12:00 Mondays** in Waddington 1.07 (Oct 2021).
+
+* 10:15 meeting opens, drift in with coffee/tea, chat and discuss lab business
 * 10:30 prompt, presentation starts
 * 11:45 latest, show the last slide
 * Discuss any other lab business
 * 12:00, everyone should leave (reminder that ICMB Monday seminars are usually at this time)
 
 We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The new timetable seems to work well as long as we are disciplined about starting on time.
-
-PI is trying to book a meeting room (Sep 2021).
 
 
 ## Giving a Research update lab meeting
