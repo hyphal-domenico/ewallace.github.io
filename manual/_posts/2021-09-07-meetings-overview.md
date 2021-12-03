@@ -22,7 +22,7 @@ Meetings won't take place over holidays or when they clash with other events, li
 We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 
 Meetings are in person where preferable, although it is usually possible to join by zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
-Please give enough notice (2 hours) ifyou will join a meeting by zoom, so that someone can set it up.
+Please give enough notice (2 hours) if you will join a meeting by zoom, so that someone can set it up.
 
 
 # Lab meetings for everyone (weekly)
@@ -96,6 +96,8 @@ Some resources on giving good presentations and lab meetings:
 * [Giving effective presentations, by Claus Wilke](https://clauswilke.com/blog/2013/10/20/giving-effective-presentations/)
 * [Text on slides, also by Claus Wilke](https://clauswilke.com/blog/2013/08/18/engaging-presentations-and-text-heavy-slides/)
 * [Giving a Good Talk, from Maya Schuldiner's mentoring page](https://mayaschuldiner.wixsite.com/schuldinerlab/mentoring)
+* [Ten simple rules for effective presentation slides](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554) focuses on single slides
+* [Ten simple rules for short and swift presentations](https://doi.org/10.1371/journal.pcbi.1005373) focuses on structure of short presentations
 * [How to survive your first lab meeting](https://www.abcam.com/content/how-to-survive-your-first-lab-meeting)
 * [How to survive and excel in lab meetings](https://sophtalksscience.com/2017/10/30/how-to-survive-your-first-lab-meeting/)
 
@@ -153,7 +155,7 @@ Sometimes we tried a different format, for example discussing a manuscript draft
 Most lab members have 1-1 meetings with the PI, fortnightly, that last 55 minutes.
 These guidelines are intended to be "as simple as possible" to make these meetings most pleasant and productive.
 
-* The lab member takes notes and sends a summary to PI later on the day of the 1-1 meeting. Notes should begin "1-1 meeting notes [date]". (By email or slack? To discuss)
+* The lab member takes notes and sends a summary to PI later on the day of the 1-1 meeting. Notes should begin "1-1 meeting notes [date]". Email is the preferred delivery method.
 * Meeting starts by discussing progress on agreed priorities and action points from previous meeting.
 * Meeting includes reviewing lab notebook, or other data/analysis/writing/slides, as appropriate.
 * For wet lab workers, the lab notebook (RSpace) should be updated before the 1-1 meeting.
