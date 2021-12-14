@@ -18,8 +18,9 @@ She worked to apply the open-source [“RiboViz”](https://riboviz.org/) bioinf
 Flic was part of the development team for the [RiboViz](https://github.com/riboviz/RiboViz) codebase, using Bash, Python and R programming to help improve sustainability and usability of the software, add new features and squash bugs.
 She played a major role setting up the [example-datasets repository](https://github.com/riboviz/example-datasets).
 
-Flic also assisted with [Software Carpentry](https://software-carpentry.org/) workshops to boost programming and best-practices software building skills amongst researchers, and trained as a Carpentries instructor.  She helped to deliver schools outreach workshops as part of the [4273 pi](https://www.4273pi.org/) project, bringing practical computing and bioinformatics exercises into the biology curriculum around Scotland.
+Flic also assisted with [Software Carpentry](https://software-carpentry.org/) workshops to boost programming and best-practices software building skills amongst researchers, and trained as a Carpentries instructor. 
+She helped to deliver schools outreach workshops as part of the [4273 pi](https://www.4273pi.org/) project, bringing practical computing and bioinformatics exercises into the biology curriculum around Scotland.
 
 Flic built her bioinformatics experience in her previous role with the Centre for Middle Eastern Plants (CMEP), part of Royal Botanic Garden Edinburgh (RBGE), using R and SQL to help answer biodiversity questions.
 
-In 2022, Flic will start a PhD studying how researchers do software engineering, working with the [Software Sustainability Institute](https://software.ac.uk).
+In 2022, Flic will start a PhD studying how researchers do software engineering, at [epcc](https://www.epcc.ed.ac.uk) in Edinburgh, and working with the [Software Sustainability Institute](https://software.ac.uk).
