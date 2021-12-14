@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "MacKenzie E, Winterbourne SM, Anderson F, Wallace EWJ"
-image: /assets/images/papers/default.jpg
+image: /assets/images/papers/open_science_projects_vennbutton.png
 redirect_from: 
 fulltext: https://portlandpress.com/biochemist/article/doi/10.1042/bio_2021_198/230441/The-benefits-of-an-open-science-approach-in
 pdflink: https://portlandpress.com/biochemist/article-pdf/doi/10.1042/bio_2021_198/926284/bio_2021_198.pdf
