@@ -17,12 +17,15 @@ Our piece on [The benefits of open science in student research projects](/papers
 is now published at [The Biochemist magazine](https://portlandpress.com/biochemist/Ahead-of-Issue-articles), the member journal of The Biochemical Society.
 
 
-We found that to design a good student project, it helps to:
+We learned that to design a good student project, it helps to:
 
 - Plan project outcomes so that everybody wins. 
 - Plan a pathway from novice to expert within the project.
  
 ![How to design a good student project.](/assets/images/blog/open_science_projects_figure_EW_2021-10-12.svg)
+
+The article has plenty of other tips, from the student, day-to-day-supervisor, and PI perspective.
+It was fun to write as a collaborative open-science effort, with [Emma](/team/emma-mackenzie), [Sophie](/team/sophie-winterbourne), and [Flic](/team/flic-anderson).
 
 One surprise of writing this how how little we could find already written about running successful short research projects for students, at all.
 If you know other articles on this, or want to write one, let us know, we are interested!
