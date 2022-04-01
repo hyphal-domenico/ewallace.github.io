@@ -5,17 +5,17 @@ year: "2020"
 shortref: "Ballou <i>et al.</i> <i>MBE</i> 2020"
 nickname: ssd1-evolution
 journal: "Molecular Biology & Evolution"
-volume: 
-issue:
-pages: 
+volume: 38
+issue: 5
+pages: 1837–1846
 authors: "Ballou ERB, Cook AG, Wallace EWJ"
 image: /assets/images/papers/Ssd1_Ballou2020_Dis3family_rosetree.svg
 redirect_from: 
-fulltext: 
-pdflink: https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msaa324/34880180/msaa324.pdf
+fulltext: https://academic.oup.com/mbe/article/38/5/1837/6031919
+pdflink: https://academic.oup.com/mbe/article-pdf/38/5/1837/37799192/msaa324.pdf
 github: https://github.com/ewallace/pseudonuclease_evolution_2020/
-pmid: 
-pmcid: 
+pmid: 33313834
+pmcid: PMC8097288
 f1000: 
 doi: "10.1093/molbev/msaa324"
 dryad_doi:
@@ -27,7 +27,7 @@ category: paper
 published: true
 preprint: true
 embargo: false	
-peerreview: false
+peerreview: true
 review: false
 tags: [evolution, ssd1, rna-binding protein, pseudoenzyme]
 ---
@@ -40,3 +40,7 @@ The RNase II family of 3′-5′ exoribonucleases are present in all domains of 
 ## Data availability
 
 All the data and code underlying evolutionary analyses are available on github and permanently archived via zenodo; see links on the left.
+
+## Cover image
+
+This paper made the cover of [MBE's May 2021 issue](https://academic.oup.com/mbe/issue/38/5), with a lovely cover image designed by co-author Liz Ballou:

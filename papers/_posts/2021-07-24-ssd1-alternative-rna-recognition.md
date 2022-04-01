@@ -1,21 +1,21 @@
 ---
 layout: paper
 title: "Yeast Ssd1 is a non-enzymatic member of the RNase II family with an alternative RNA recognition interface"
-year: "2020"
+year: "2021"
 shortref: "Bayne <i>et al.</i> <i>NAR</i> 2021"
 nickname: ssd1-structure-function
 journal: "Nucleic Acids Research"
-volume: 
-issue:
-pages: 
+volume: 50
+issue: 5
+pages: 2923–2937
 authors: "Bayne RA, Jayachandran U, Kasprowicz A, Bresson S, Tollervey D, Wallace EWJ, Cook AG"
 image: /assets/images/papers/Ssd1_Bayne2020_structure_cartoon.png
 redirect_from: 
-fulltext: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab615/6327701
-pdflink: https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkab615/39307746/gkab615.pdf
+fulltext: https://academic.oup.com/nar/article/50/5/2923/6327701
+pdflink: https://academic.oup.com/nar/article-pdf/50/5/2923/42919367/gkab615.pdf
 github: https://github.com/ewallace/Ssd1_CRACanalysis_2020
-pmid: 
-pmcid: 
+pmid: 34302485
+pmcid: PMC8934651
 f1000: 
 doi: "10.1093/nar/gkab615"
 dryad_doi:
@@ -27,7 +27,7 @@ category: paper
 published: true
 preprint: true
 embargo: false	
-peerreview: false
+peerreview: true
 review: false
 tags: [ssd1, rna-binding protein]
 ---
@@ -39,6 +39,10 @@ Ssd1, a conserved fungal RNA-binding protein, is important in stress responses, 
 
 
 Note: this was a collaboration with the groups of [Atlanta Cook](https://cook.bio.ed.ac.uk/) and [David Tollervey](https://tollervey.bio.ed.ac.uk/).
+
+## Cover Image
+
+This paper made the cover of [NAR's March 2022 issue](https://academic.oup.com/nar/issue/50/5) with a delightful Pacman-themed cover designed by last author Atlanta Cook.
 
 ## Data availability
 
