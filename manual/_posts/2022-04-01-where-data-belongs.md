@@ -55,7 +55,10 @@ Folder organization and contents are described in detail below.
 
 ## wallace_rna/admin/
 
-TODO: write this.
+Administrative material for the lab, including inventories, strain database, and archives.
+
+This folder is currently not very well organised. Please try to use it all the same.
+Suggest improvements if any occur to you.
 
 ### wallace_rna/admin/Inventories
 
@@ -85,15 +88,39 @@ The `Strains_and_Associated_Info` folder also includes additional folders and fi
 
 ## wallace_rna/bigdata - big data like (raw) sequencing and proteomics datasets
 
-* fastq - contains all raw sequencing data used in the lab in fastq.gz format
+bigdata directory is for storing large files of high-throughput data.
+The kind that need to be returned to again and again.
+Mostly this focuses on raw data.
+We would usually put analysis of the data somewhere else, for example a github repository.
+
+Including:
+- high-throughput sequencing data in .fastq format (RNA-seq, CRAC, etc.)
+- proteomics data in .raw , .mzML, etc. format (when we get some)
+- large microscopy datasets (e.g. smFISH)
+
+Currently (April 2022) the organisation is, uh, mixed.
+Some of it is split by year, and some by type of data.
+Contents are described in detail below.
+
+Subdirectories are:
+
+- 2018
+- 2019
+- 2021
+- 2022
+- fastq
 
 When we start to collect proteomics data, that will need a separate subfolder here as well.
 
-TODO: update other contents here.
+Full contents are listed in a `wallace_rna/bigdata/README.md`
 
-### fastq - contents and instructions
+### fastq directory instructions
 
-All raw sequencing datasets should be placed here as soon as the facility notifies us that the sequencing is complete.
+This folder contains assorted raw fastq files from multiple experiments.
+Some are Wallace lab experiments, some pre-date the opening of the Wallace lab from Edward's postdoc work, some from collaborators.
+
+*All raw sequencing datasets should be placed in `wallace_rna/bigdata/fastq` folder as soon as the facility notifies us that the sequencing is complete.*
+
 
 1. Download the data to here.
 2. If necessary, un-archive a tarball into a directory containing individual .fastq.gz files.
@@ -107,6 +134,7 @@ All raw sequencing datasets should be placed here as soon as the facility notifi
 
 This folder is organized primarily by date then your name: `yyyy/mm-mmmm/name`.
 We use years (e.g. `2021`) and months (e.g. `01-Jan`) to ensure that the contents display in consistent order. 
+Please make sure to use a hyphen `-`, so `03-Mar` not `03_Mar` nor `03 Mar`.
 Please take care to accurately name the folder according to the month when the data were generated; this should be easy if you backup the data quickly.
 
 For example, the directory `wallace_rna/data/2020/07-Jul/Edward/Ssd1_reportergenes_5UTRonly` contains Edward's data from July 2020 on some Ssd1 reporter genes, where the Ssd1 recognition site is on the 5'UTR.
@@ -136,9 +164,7 @@ The university's [datasync dropbox-like service](https://www.ed.ac.uk/informatio
 
 ## wallace_rna/LabMemberContactNos - emergency contact numbers for people who use the wet lab
 
-## wallace_rna/manual - contains a previous version of the lab manual from 2019
-
-TODO: decide what to do with this.
+Please ensure this is updated with your current phone number
 
 ## wallace_rna/presentations - copies of presentations from lab meetings
 
