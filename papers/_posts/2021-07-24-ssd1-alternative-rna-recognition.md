@@ -42,7 +42,11 @@ Note: this was a collaboration with the groups of [Atlanta Cook](https://cook.bi
 
 ## Cover Image
 
-This paper made the cover of [NAR's March 2022 issue](https://academic.oup.com/nar/issue/50/5) with a delightful Pacman-themed cover designed by last author Atlanta Cook.
+This paper made the cover of [NAR's March 2022 issue](https://academic.oup.com/nar/issue/50/5) with a delightful Pacman-themed cover designed by last author Atlanta Cook:
+
+![Ssd1 structure NAR cover image](/assets/images/papers/coverimage_nar_50_5.jpeg 
+){:class="img-responsive"}
+
 
 ## Data availability
 

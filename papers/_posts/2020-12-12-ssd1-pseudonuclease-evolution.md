@@ -44,3 +44,6 @@ All the data and code underlying evolutionary analyses are available on github a
 ## Cover image
 
 This paper made the cover of [MBE's May 2021 issue](https://academic.oup.com/mbe/issue/38/5), with a lovely cover image designed by co-author Liz Ballou:
+
+![Ssd1 Evolution MBE cover image](/assets/images/papers/coverimage_molbiolevol_38_5.jpeg 
+){:class="img-responsive"}
