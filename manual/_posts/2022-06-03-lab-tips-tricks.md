@@ -34,6 +34,26 @@ EH9 3FF
 
 This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
 
+Soon (July 2022) Sciquest will cease to be used, and be replaced by People and Money.
+Pray for us.
+
+
+## Sending and delivering reagents
+
+To send things to another lab or request from elsewhere, you can use FedEx or DHL arranged via the Stores team.
+The procedure is basically the same if you are sending or receiving.
+
+1. Email swann.stores@ed.ac.uk with saying that you need to send or receive a package. Include the address, describe the contents (including ice or dry ice), and the approximate size and weight. FedEx and DHL deliver to different regions, if in doubt ask the stores team which carrier to use.
+2. If RECEIVING, stores team will send you a label and maybe a customs form, forward this to the people sending you stuff.
+3. If SENDING, 
+  - scavenge for shipping material, containers, etc., it's usually possible to find something
+  - make up your package
+  - include paperwork inside describing the contents
+  - address it including the recipent's address on the front of the package, our address on the back of the package, both with contact phone numbers
+  - seal the package
+  - take package to Roger Land stores during working hours
+  - ask for a tracking number and email that to the recipient, along with a description of the contents
+
 
 ## How to print posters
 
