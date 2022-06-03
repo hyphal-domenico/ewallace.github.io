@@ -8,6 +8,9 @@ tags: [labmanual, wetlab]
 ---
 {% include JB/setup %}
 
+* TOC
+{:toc}
+
 # Lab tips and tricks
 
 This is a page for the random tips and tricks, such as
@@ -71,9 +74,9 @@ For example, posters for conferences.
 Dry ice is stored in the blue insulated canister in the Freezer room in Waddington basement.
 Make sure to read & respect safety and risk assessments: dry ice causes burns.
 
-We buy dry ice from [Chemistry Stores in the Joseph Black building]().
+We buy dry ice from [Chemistry Stores](https://www.chem.ed.ac.uk/research/facilities) in the [Joseph Black building](https://www.ed.ac.uk/maps/maps?building=0632).
 
-1. Point your web browser to [eStores]() and purchase dry ice, usually 2x 10kg bags.
+1. Point your web browser to [eStores](http://www.estores.finance.ed.ac.uk/) and purchase dry ice, usually 2x 10kg bags.
 2. Go to chemistry stores with a trolley, another person, and insulated gloves. If in doubt ask a servitor for directions - it's past the mass spec room.
 3. Collect dry ice, bring it back on the trolley, and deposit it in the blue canister. Be careful because dry ice is heavy and dangerously cold. That's why you need the other person, the trolley, and the gloves.
 
