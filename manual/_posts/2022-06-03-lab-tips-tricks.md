@@ -97,7 +97,7 @@ Plate readers 1 & 2 are M200s with monochromators that can detect a wider variet
 Plate readers 3 & 4 are F200 with fixed-wavelength filters for OD600, mTurquoise (430ex/485em), GFP (485ex/535em), and a red set (check!).
 
 Ivan Clark is in charge of the plate readers, email him at ivan.clark@ed.ac.uk to ask to be added to the booking system.
-You can then book any of the 4 available plate readers through the [SynthSys scheduler] (http://synthsys.bio.ed.ac.uk/biosched/).
+You can then book any of the 4 available plate readers through the [SynthSys scheduler](http://synthsys.bio.ed.ac.uk/biosched/).
 You must ask Ivan and/or an expert in our lab to go through plate reader usage before making your first booking.
 It is important to make sure you're fully trained on the plate readers before using them, because they like to break and many people rely on them working.
 
