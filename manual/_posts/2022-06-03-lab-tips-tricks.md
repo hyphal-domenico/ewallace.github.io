@@ -23,7 +23,7 @@ Remember, this is going to be on a public website, so no passwords or personal i
 
 If you need to order something that is not available on Sciquest and asks for a lab address, please make sure it gets to Graham Nicolson in Roger Land Stores. Use the address:
 
-Edward Wallace lab (HELP: is that correct? Otherwise how will it get to us?)  
+Edward Wallace lab  
 c/o Graham Nicolson  
 University of Edinburgh  
 School of Biological Sciences  
@@ -48,10 +48,15 @@ For example, posters for conferences.
 
 ## Dry ice
 
-Mostly for dry ice we get this from the Swann building lobby; ensure you have card access to the Swann building.
-Before getting dry ice, please check with Greg Anderson that there is some available – it is purchased by the Wellcome centre and they don’t always have enough to share.
+Dry ice is stored in the blue insulated canister in the Freezer room in Waddington basement.
+Make sure to read & respect safety and risk assessments: dry ice causes burns.
 
-HELP: HOW DO WE ORDER DRY ICE IF THEY DON'T?
+We buy dry ice from [Chemistry Stores in the Joseph Black building]().
+
+1. Point your web browser to [eStores]() and purchase dry ice, usually 2x 10kg bags.
+2. Go to chemistry stores with a trolley, another person, and insulated gloves. If in doubt ask a servitor for directions - it's past the mass spec room.
+3. Collect dry ice, bring it back on the trolley, and deposit it in the blue canister. Be careful because dry ice is heavy and dangerously cold. That's why you need the other person, the trolley, and the gloves.
+
 
 ## DeNovix / nanodrop
 
@@ -77,7 +82,7 @@ HELP
 
 ## qPCR Analysis
 
-On the computer connected to the Roche Lightcycler 480 qPCR machine in 3Waddington 3.18, the generated files are stored in:
+On the computer connected to the Roche Lightcycler 480 qPCR machine in Waddington 3.18, the generated files are stored in:
 `My documents > Program files> Roche> Light cycler 480> Bin`
 
 Save multiple files directly from the Lightcycler software, ensuring that your name and the date 20yy-mm-dd are in the file title:
