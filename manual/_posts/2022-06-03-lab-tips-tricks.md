@@ -90,6 +90,9 @@ A pdf can also be generated and saved. On the Graphs page spectral graphs can be
 The nanodrop is also connected to the network, and it is theoretically possible to export by email.
 For more information, see the Data Export and Print Options section of the [Denovix DS-11 user guide](https://www.denovix.com/pdf/ds-11-series-user-guide.pdf).
 
+## Plate reader booking
+
+If you would like to be put onto the plate reader booking system, you need to email ivan.clark@ed.ac.uk and ask him to do this for you. You can then book any of the 5 available plate readers through the following [link] (http://synthsys.bio.ed.ac.uk/biosched/) It is important to make sure you're fully trained on the plate readers before using them for the first time, so please ask Ivan/someone else in our lab to go through plate reader usage before making your first booking.  
 
 ## Lab tablet computers
 
