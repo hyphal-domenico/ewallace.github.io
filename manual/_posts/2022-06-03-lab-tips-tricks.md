@@ -1,20 +1,21 @@
 ---
 layout: post
-title: "Wet lab tips and tricks"
-description: "Miscellaneous tips and tricks for the wet lab in Waddington building"
+title: "Lab tips and tricks"
+description: "Miscellaneous tips and tricks for the wet lab in Waddington building and other things"
 about: true
 author_handle: ew
 tags: [labmanual, wetlab]
 ---
 {% include JB/setup %}
 
-# Wet lab tips and tricks
+# Lab tips and tricks
 
-This is a page for the random tips and tricks
+This is a page for the random tips and tricks, such as
 
 - how to operate machines
 - how to move data between machines
 - how to get stuff, e.g. dry ice
+- logistics such as buying things
 
 Remember, this is going to be on a public website, so no passwords or personal info.
 
@@ -32,6 +33,18 @@ Edinburgh
 EH9 3FF  
 
 This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
+
+
+## How to print posters
+
+For example, posters for conferences.
+
+1. Get in touch with the [King's Buildings Copy Centre](https://www.ed.ac.uk/printing/photocopying) and find out the price of the poster you want. Email kbcopy@ed.ac.uk or call them.
+2. Email Graham and Davey at swann.stores@ed.ac.uk with subject: "eIT code for poster". Specify the size, type (e.g. fabric), and quoted price of the poster from the Copy Centre, and give them the full grant code (6-digit cost centre, 6-digit grant code).
+3. Graham and Davey will email you back with the eIT code.
+4. Send the eIT code back to the Copy Centre with the pdf of your poster and repeat your size/type requirements.
+5. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB (follow the signs).
+
 
 ## Dry ice
 
