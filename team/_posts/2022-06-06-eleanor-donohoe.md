@@ -9,7 +9,7 @@ twitter:
 github: Eldonoho99
 ORCID: 
 scholar: 
-image: /assets/images/team/Eleanor_Donohoe_2022.jpg
+image: /assets/images/team/Eleanor_Donohoe_2022.png
 alum: false
 ---
 
