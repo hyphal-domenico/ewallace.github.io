@@ -10,7 +10,9 @@ github: JingQiChong
 ORCID:
 scholar:
 image: /assets/images/team/JingQi-Chong-2022.jpg
-alum: false
+alum: true
 ---
 
-Jing Qi is an undergraduate doing his honours project in the lab. He is working on improving the bioinformatics workflow for the quantification of interaction between RNA and Proteins.
+Jing Qi did his undergraduate honours project in the lab in 2022.
+He developed an improved bioinformatics workflow for the quantification of CRAC data on RNA-protein interaction, written in nextflow.
+He applied this to understand RNA-protein interactions in yeast.

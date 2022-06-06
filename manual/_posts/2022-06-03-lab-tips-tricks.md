@@ -90,6 +90,17 @@ A pdf can also be generated and saved. On the Graphs page spectral graphs can be
 The nanodrop is also connected to the network, and it is theoretically possible to export by email.
 For more information, see the Data Export and Print Options section of the [Denovix DS-11 user guide](https://www.denovix.com/pdf/ds-11-series-user-guide.pdf).
 
+## Plate reader booking
+
+For measuring cell growth and fluorescence we use the 4 [TECAN Infinite 200 PRO plate readers](https://lifesciences.tecan.com/plate_readers/infinite_200_pro) in Waddington 2.16 (small dark room off the main lab space).
+Plate readers 1 & 2 are M200s with monochromators that can detect a wider variety of wavelengths.
+Plate readers 3 & 4 are F200 with fixed-wavelength filters for OD600, mTurquoise (430ex/485em), GFP (485ex/535em), and a red set (check!).
+
+Ivan Clark is in charge of the plate readers, email him at ivan.clark@ed.ac.uk to ask to be added to the booking system.
+You can then book any of the 4 available plate readers through the [SynthSys scheduler](http://synthsys.bio.ed.ac.uk/biosched/).
+You must ask Ivan and/or an expert in our lab to go through plate reader usage before making your first booking.
+It is important to make sure you're fully trained on the plate readers before using them, because they like to break and many people rely on them working.
+
 
 ## Lab tablet computers
 
