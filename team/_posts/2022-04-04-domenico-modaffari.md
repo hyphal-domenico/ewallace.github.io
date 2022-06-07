@@ -3,13 +3,13 @@ layout: member
 title: "Domenico Modaffari"
 position: PhD Student
 nickname:
-handle: 
+handle:
 email: domenico.modaffari@ed.ac.uk
 twitter: d_modaffari
 github: hyphal-domenico
 ORCID: 0000-0003-4317-0328
 scholar:
-image: /assets/images/team/default-member.png
+image: /assets/images/team/domenico_modaffari_2022.jpg
 alum: false
 ---
 
