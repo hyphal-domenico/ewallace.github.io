@@ -8,7 +8,7 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated October 2021*
+# Meetings - *updated July 2022*
 {: .no_toc }
 
 This page covers basic expectations for meetings in the lab:
@@ -40,12 +40,13 @@ Lab meetings can take various formats:
 
 Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
 
-Currently Laura Tuck is organising the lab meeting schedule. Please give Laura at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
+Currently Sam Haynes is organising the lab meeting schedule.
+Please give Sam at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
 
 
 ## Timing
 
-Lab meetings are **10:30-12:00 Mondays** in Waddington 1.07 (Oct 2021).
+Lab meetings are **10:30-12:00 Mondays** in Waddington 1.07 (through summer 2022).
 
 * 10:15 meeting opens, drift in with coffee/tea, chat and discuss lab business
 * 10:30 prompt, presentation starts
@@ -121,7 +122,7 @@ Claus Wilke’s blogpost, [share your preliminary work with other people](https
 
 # Journal club meetings (about fortnightly)
 
-From September 2021, we are going to try more regular dedicated journal clubs.
+From September 2021 we have been trying more regular dedicated journal clubs.
 We will try these on Thursdays at 11am "opposite" to the SynthSys OCM Thursdays.
 Same lab meeting link, also listed on the lab calendar.
 
@@ -143,7 +144,7 @@ From January to June 2021 we tried journal clubs in themed subgroups:
 * RNA-binding proteins, Ssd1 and so on - Rosey, Marah, Louis, also Paddy and Yuxuan. 10am alternate Mondays (weeks 1+3 in lab rota).
 * 3'UTRs - Sam, Weronika. 10am alternate Tuesdays (weeks 1+3 in lab rota).
 * Fungal pathogens - Laura, Liz, Rachael. 10am alternate Mondays (weeks 2+4 in lab rota)
-* Ribosome profiling has a separate meeting on Wednesday afternoons, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
+* Ribosome profiling had a separate meeting on Wednesday afternoons, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
 
 There was a lot of learning that happened, despite the large time commitment and stress of working from home and/or shift system.
 
@@ -173,10 +174,10 @@ Project students should find these guidelines useful to make the most of their m
 
 ## 1-1 meeting timings
 
-New from September 2021, Edward would like to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday free for extended thinking / experiments / etc.
+Edward prefers to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday free for extended thinking / experiments / etc.
 
 We will try to schedule 1-1 meetings using the outlook calendar meeting invite service.
-Edward will work on making that calendar reflect when he is free and when he is busy.
+Edward works to make that calendar reflect when he is free and when he is busy.
 
 
 # Lab socials (whenever we feel like it)
