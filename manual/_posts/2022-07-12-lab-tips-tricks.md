@@ -8,7 +8,6 @@ tags: [labmanual, wetlab]
 ---
 {% include JB/setup %}
 
-
 # Lab tips and tricks
 
 This is a page for the random tips and tricks, such as
@@ -207,3 +206,56 @@ Collection is just once a month at the moment. The first Thursday of every month
 
 Currently we do all our high-throughput sequencing (RNA-seq, library prep, self-prepared libraries, Illumina) at the [WTCRF genetics core](https://www.ed.ac.uk/clinical-research-facility/core-services/genetics), which is at Western General Hospital campus just across town.
 Discuss your experimental goals and design with Edward first and we will then contact the genetics core team.
+
+### Downloading high-throughput sequencing data
+
+See more at [fastq directory instructions, in where data belongs manual page](where-data-belongs#fastq-directory-instructions).
+
+The genetics core share data via [Illumina basespace](https://basespace.illumina.com/).
+You need to create an account first - go to sign-in page and click "don't have an account" and register.
+
+When your data are ready, the genetics core will send 2 links, one for the run and one for the project. Click on both links and then accept sharing them. See [basespace help](https://help.basespace.illumina.com) for more help.
+
+Next you need to download the data to datastore.
+It's recommended to use the [basespace command-line interface](https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-examples).
+
+From [Eddie](https://www.ed.ac.uk/information-services/research-support/research-computing/ecdf/high-performance-computing):
+
+```bash
+# log in to data staging node
+qlogin -q staging
+
+# change directory to the datastore fastq directory
+cd /exports/csce/datastore/biology/groups/wallace_rna/bigdata/fastq
+
+# load basespace
+module load igmm/apps/BaseSpaceCLI/0.10.7
+
+# authenticate to basespace:
+bs auth
+
+# then log in to basespace on your browser, copy that URL into browser to authenticate
+
+# check that it worked
+bs whoami
+
+# List projects! fastq files are in "projects"
+bs list projects 
+
+# this will give you a project id number XXXXXXXXX and name AB_namebit_dddddd
+# update the id and name to correspond to the project you wish to download
+
+bs download project -i XXXXXXXXX -o AB_namebit_dddddd --extension=fastq.gz
+bs download project -i XXXXXXXXX -o AB_namebit_dddddd --extension=txt
+
+# move all fastq fiels into a single directory and calculate checksums
+mv AB_namebit_dddddd/*/*.fastq.gz AB_namebit_dddddd
+md5sum AB_namebit_dddddd/*.fastq.gz > AB_namebit_dddddd/download_checksums.txt
+
+# change file permissions to read-only to make it hard to delete
+chmod a=r AB_namebit_dddddd/*.fastq.gz
+```
+
+After this, be sure to update the `/wallace_rna/bigdata/fastq/README.md` file.
+
+Then log out of Eddie.

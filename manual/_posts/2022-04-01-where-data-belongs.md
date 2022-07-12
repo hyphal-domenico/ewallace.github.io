@@ -8,8 +8,6 @@ tags: [labmanual, newstart]
 ---
 {% include JB/setup %}
 
-{:toc}
-
 # Guidelines for storing and organizing data in the Wallace lab
 
 The principles behind our approach to data are described in [data management plan](data-management-plan); this manual page contains practical guidelines.
@@ -19,6 +17,9 @@ All data must be securely stored and backed up, usually to the lab's datastore s
 Data must also be findable, organized, and described, usually with a `README.txt` or `README.md` file that describes the contents of each directory.
 
 **Please ask if there is any doubt at all about any of this.**
+
+* TOC
+{:toc}
 
 ## Resources on dealing with data
 
@@ -128,6 +129,8 @@ Some are Wallace lab experiments, some pre-date the opening of the Wallace lab f
 4. Change file permissions to global read only (e.g. `chmod 444 my_new_data`) to make it harder to delete.
 5. Update the README file to include your data, a note about it, and a link to a more detailed description such as a sample sheet.
 6. If you are feeling paranoid, backup somewhere else as well - and verify your checksums!
+
+See download instructions at [Downloading high-throughput sequencing data](lab-tips-tricks#downloading-high-throughput-sequencing-data)
 
 
 ## wallace_rna/data - everyday lab data, images, tables, qPCR, etc etc
