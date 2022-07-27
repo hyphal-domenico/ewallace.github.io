@@ -8,9 +8,6 @@ tags: [labmanual, wetlab]
 ---
 {% include JB/setup %}
 
-* TOC
-{:toc}
-
 # Lab tips and tricks
 
 This is a page for the random tips and tricks, such as
@@ -21,6 +18,10 @@ This is a page for the random tips and tricks, such as
 - logistics such as buying things
 
 Remember, this is going to be on a public website, so no passwords or personal info.
+
+* TOC
+{:toc}
+
 
 ## Ordering outside of Sciquest
 
@@ -145,6 +146,8 @@ Please fill in the forms in the red folder when carrying out any maintenance tas
 These include changing buffers. 
 If the forms are full new ones can be printed off from data store under `wallace_rna/admin/Fa Maintenance schedule`.
 
+Any questions, ask Liz Hughes.
+
 
 ## Tip for making glycerol stocks in bulk
 
@@ -161,3 +164,98 @@ If the forms are full new ones can be printed off from data store under `wallace
 
 HELP! 
 How do I use the UV Crosslinker? How long should I sterilize?
+
+
+## Sanger Sequencing with MRC PPU Dundee
+
+We use [MRC PPU in Dundee](https://dnaseq.co.uk) for routine Sanger sequencing of plasmid segments and PCR products.
+Wallace lab code is 2248, and the lab address as the invoice address.
+Sign up for an account on https://dnaseq.co.uk and ask to be added to the lab list.
+Please use our spend-down account that currently costs £3.50 per sequencing reaction.
+
+To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
+Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
+Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to: 
+
+```
+DNA Sequencing and Services
+Medical Sciences Institute
+School of Life Sciences
+University of Dundee
+Dundee
+DD1 5EH
+UK
+```
+
+You can then just put the envelope in the Mail Out box in Swann foyer.
+
+
+We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so we expect to do more whole-plasmid sequencing and less Sanger sequencing of segments, from now on.
+
+
+## Whole-plasmid sequencing with Plasmidsaurus
+
+New June 2022, there is Plasmidsaurus dropbox at Chancellor's Building, Little France. Plasmidsaurus (https://www.plasmidsaurus.com) offer whole-plasmid sequencing at $15 / sample, see their website for details.
+
+You can drop samples in the box directly, or via internal mail. To send by internal mail. Put your sample packet/envelope in an internal mail envelope marked "Chancellor's Building Reception, Plasmidsaurus Dropbox, Bioquarter/Little France" Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/), including ordering/payment information (HELP).
+
+Collection is just once a month at the moment. The first Thursday of every month at 9am. First collection is 7th of July 2022. If there is enough initial use (which seems likely), frequency will go up to weekly or bi-weekly.
+
+
+## High-throughput sequencing at WTCRF genetics core
+
+Currently we do all our high-throughput sequencing (RNA-seq, library prep, self-prepared libraries, Illumina) at the [WTCRF genetics core](https://www.ed.ac.uk/clinical-research-facility/core-services/genetics), which is at Western General Hospital campus just across town.
+Discuss your experimental goals and design with Edward first and we will then contact the genetics core team.
+
+### Downloading high-throughput sequencing data
+
+See more at [fastq directory instructions, in where data belongs manual page](where-data-belongs#fastq-directory-instructions).
+
+The genetics core share data via [Illumina basespace](https://basespace.illumina.com/).
+You need to create an account first - go to sign-in page and click "don't have an account" and register.
+
+When your data are ready, the genetics core will send 2 links, one for the run and one for the project. Click on both links and then accept sharing them. See [basespace help](https://help.basespace.illumina.com) for more help.
+
+Next you need to download the data to datastore.
+It's recommended to use the [basespace command-line interface](https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-examples).
+
+From [Eddie](https://www.ed.ac.uk/information-services/research-support/research-computing/ecdf/high-performance-computing):
+
+```bash
+# log in to data staging node
+qlogin -q staging
+
+# change directory to the datastore fastq directory
+cd /exports/csce/datastore/biology/groups/wallace_rna/bigdata/fastq
+
+# load basespace
+module load igmm/apps/BaseSpaceCLI/0.10.7
+
+# authenticate to basespace:
+bs auth
+
+# then log in to basespace on your browser, copy that URL into browser to authenticate
+
+# check that it worked
+bs whoami
+
+# List projects! fastq files are in "projects"
+bs list projects 
+
+# this will give you a project id number XXXXXXXXX and name AB_namebit_dddddd
+# update the id and name to correspond to the project you wish to download
+
+bs download project -i XXXXXXXXX -o AB_namebit_dddddd --extension=fastq.gz
+bs download project -i XXXXXXXXX -o AB_namebit_dddddd --extension=txt
+
+# move all fastq fiels into a single directory and calculate checksums
+mv AB_namebit_dddddd/*/*.fastq.gz AB_namebit_dddddd
+md5sum AB_namebit_dddddd/*.fastq.gz > AB_namebit_dddddd/download_checksums.txt
+
+# change file permissions to read-only to make it hard to delete
+chmod a=r AB_namebit_dddddd/*.fastq.gz
+```
+
+After this, be sure to update the `/wallace_rna/bigdata/fastq/README.md` file.
+
+Then log out of Eddie.
