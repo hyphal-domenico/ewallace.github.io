@@ -23,12 +23,28 @@ Remember, this is going to be on a public website, so no passwords or personal i
 {:toc}
 
 
-## Ordering outside of Sciquest
 
-If you need to order something that is not available on Sciquest and asks for a lab address, please make sure it gets to Graham Nicolson in Roger Land Stores. Use the address:
+## Ordering 
+
+We are now (November 2022) doing all ordering through the new [People & Money system](https://www.ed.ac.uk/staff/services-support/hr-and-finance/people-and-money-system).
+This is widely acknowledged to be a disaster and will hopefully get better in the coming months.
+Currently in the lab Liz and Domenico are the people who know most about using P&M.
+
+[Link to access people & money](https://elxw.fa.em3.oraclecloud.com/fscmUI/faces/FuseWelcome).
+After logging in using single sign-on (SSO, also known as EASE password) click on the "procurement" tab, then the "shop" button.
+
+The [University procurement site has details of the approved university suppliers.](https://www.ed.ac.uk/procurement)
+Also for "punchout", that is ordering through a supplier's own website using the university's account, see [catalogue supplier list August 2022](https://www.ed.ac.uk/sites/default/files/atoms/files/supplier_catalogues_and_supplier_punchouts_-_august_2022.pdf).
+
+Some reagents are in-stock on campus at stores locations.
+[This page has a list of the different stores and an up to date list of items available, including order codes. It gets updated regularly.](https://www.ed.ac.uk/procurement/stores-operations)
+
+Here is [School of Biological Sciences People and Money Help Site](https://uoe.sharepoint.com/sites/Biology/PeopleandMoney/SitePages/Home.aspx)
+
+If you need to order something that asks for a lab address, please make sure it gets to Roger Land Stores. Use the address:
 
 Edward Wallace lab  
-c/o Graham Nicolson  
+c/o Roger Land Stores
 University of Edinburgh  
 School of Biological Sciences  
 G27 Roger Land Building  
@@ -38,11 +54,9 @@ EH9 3FF
 
 This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
 
-Soon (July 2022) Sciquest will cease to be used, and be replaced by People and Money.
-Pray for us.
 
 
-## Sending and delivering reagents
+## Sending and delivering reagents (NEEDS UPDATING Nov 2022)
 
 To send things to another lab or request from elsewhere, you can use FedEx or DHL arranged via the Stores team.
 The procedure is basically the same if you are sending or receiving.
@@ -64,10 +78,10 @@ The procedure is basically the same if you are sending or receiving.
 For example, posters for conferences.
 
 1. Get in touch with the [King's Buildings Copy Centre](https://www.ed.ac.uk/printing/photocopying) and find out the price of the poster you want. Email kbcopy@ed.ac.uk or call them.
-2. Email Graham and Davey at swann.stores@ed.ac.uk with subject: "eIT code for poster". Specify the size, type (e.g. fabric), and quoted price of the poster from the Copy Centre, and give them the full grant code (6-digit cost centre, 6-digit grant code).
-3. Graham and Davey will email you back with the eIT code.
-4. Send the eIT code back to the Copy Centre with the pdf of your poster and repeat your size/type requirements.
-5. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB (follow the signs).
+2. Fill in the Interim Purchase Order Request Form (it's on slack/orders), including the quoted price of the poster from the Copy Centre, and the full grant code (6-digit cost centre, 6-digit grant code).
+3. Return the form to the Copy Centre, kbcopy@ed.ac.uk
+4. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB (follow the signs).
+
 
 
 ## Dry ice
@@ -77,7 +91,7 @@ Make sure to read & respect safety and risk assessments: dry ice causes burns.
 
 We buy dry ice from [Chemistry Stores](https://www.chem.ed.ac.uk/research/facilities) in the [Joseph Black building](https://www.ed.ac.uk/maps/maps?building=0632).
 
-1. Point your web browser to [eStores](http://www.estores.finance.ed.ac.uk/) and purchase dry ice, usually 2x 10kg bags.
+1. It is theoretically possible to use People & Money to purchase dry ice, usually 2x 10kg bags.
 2. Go to chemistry stores with a trolley, another person, and insulated gloves. If in doubt ask a servitor for directions - it's past the mass spec room.
 3. Collect dry ice, bring it back on the trolley, and deposit it in the blue canister. Be careful because dry ice is heavy and dangerously cold. That's why you need the other person, the trolley, and the gloves.
 
