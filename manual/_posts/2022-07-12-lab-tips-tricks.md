@@ -259,3 +259,16 @@ chmod a=r AB_namebit_dddddd/*.fastq.gz
 After this, be sure to update the `/wallace_rna/bigdata/fastq/README.md` file.
 
 Then log out of Eddie.
+
+
+## bifx servers
+
+The bifx (short for bioinformatics) servers are run by Shaun, Dan, and Hywel at the Welcome Centre for Cell Biology in Swann.
+Sometimes they are a good option for bioinformatics analysis.
+
+For more information, see the [bifx help page](https://uoe.sharepoint.com/sites/wcbbifx-core?CT=1661952893815&OR=OWA-NT&CID=2b5e67e3-4eb2-f35c-204f-01bde6476818)
+
+From bifx, connect to the lab datastore at:
+`/ds_folders/wallace/wallace_rna/`.
+
+Email Shaun Webb and cc Edward if you need to set up a bifx account and connect to the lab datastore.
