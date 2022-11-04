@@ -49,8 +49,8 @@ Here is [School of Biological Sciences People and Money Help Site](https://uoe.s
 
 Make sure orders get to Roger Land Stores. 
 For delivery address on the requisition in P&M you HAVE to put in:
-**School of Biological Sciences - Roger Land Building Stores**
-or else I am told that "all hell will rain down on to you.
+**School of Biological Sciences - Roger Land Building Stores**.
+or else I am told that "all hell will rain down on to you" - I think hell rains down mostly in the form of emails, also, the order will not arrive.
 
 Also, to place an order successfully you have to....
 - Attach the VAT certificate (on slack/orders channel)
