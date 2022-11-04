@@ -26,8 +26,11 @@ Remember, this is going to be on a public website, so no passwords or personal i
 
 ## Ordering
 
+### Overview and links
+
 We are now (November 2022) doing all ordering through the new [People & Money system](https://www.ed.ac.uk/staff/services-support/hr-and-finance/people-and-money-system).
 This is widely acknowledged to be a disaster and will hopefully get better in the coming months.
+People may refer to it as "P&M" or "Pain & Misery".
 Currently in the lab Liz and Domenico are the people who know most about using P&M.
 
 [Link to access people & money](https://elxw.fa.em3.oraclecloud.com/fscmUI/faces/FuseWelcome).
@@ -41,19 +44,21 @@ Some reagents are in-stock on campus at stores locations.
 
 Here is [School of Biological Sciences People and Money Help Site](https://uoe.sharepoint.com/sites/Biology/PeopleandMoney/SitePages/Home.aspx)
 
-If you need to order something that asks for a lab address, please make sure it gets to Roger Land Stores. Use the address:
 
-Edward Wallace lab  
-c/o Roger Land Stores
-University of Edinburgh  
-School of Biological Sciences  
-G27 Roger Land Building  
-Alexander Crum Brown Road  
-Edinburgh  
-EH9 3FF  
+### Get the address, VAT, and intended use right for orders
 
-This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
+Make sure orders get to Roger Land Stores. 
+For delivery address on the requisition in P&M you HAVE to put in:
+**School of Biological Sciences - Roger Land Building Stores**
+or else I am told that "all hell will rain down on to you.
 
+Also, to place an order successfully you have to....
+- Attach the VAT certificate (on slack/orders channel)
+- Select the intended use for EACH line on the requisition as shown below:
+- 01 - ZR MEDICAL/VET, CERT REQUIRED - Purchase, repair or maintenance of equipment, software, products and substances used SOLELY in medical and veterinary research, training, diagnosis, treatment and care.
+- Double check your delivery location and Charge account BEFORE submitting the order.
+
+If in doubt, ask for help before you submit.
 
 
 ## Sending and delivering reagents (NEEDS UPDATING Nov 2022)
@@ -71,6 +76,20 @@ The procedure is basically the same if you are sending or receiving.
   - seal the package
   - take package to Roger Land stores during working hours
   - ask for a tracking number and email that to the recipient, along with a description of the contents
+
+
+For reagent requests from other labs (non-PO so non-P&M) use the address:
+
+Edward Wallace lab  
+c/o Roger Land Stores
+University of Edinburgh  
+School of Biological Sciences  
+G27 Roger Land Building  
+Alexander Crum Brown Road  
+Edinburgh  
+EH9 3FF  
+
+This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
 
 
 ## How to print posters
