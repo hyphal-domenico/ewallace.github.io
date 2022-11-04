@@ -53,9 +53,11 @@ For delivery address on the requisition in P&M you HAVE to put in:
 or else I am told that "all hell will rain down on to you" - I think hell rains down mostly in the form of emails, also, the order will not arrive.
 
 Also, to place an order successfully you have to....
-- Attach the VAT certificate (on slack/orders channel)
-- Select the intended use for EACH line on the requisition as shown below:
-- 01 - ZR MEDICAL/VET, CERT REQUIRED - Purchase, repair or maintenance of equipment, software, products and substances used SOLELY in medical and veterinary research, training, diagnosis, treatment and care.
+- For lab reagents that are reasonably described as used in medical research (we work on fungal pathogens!):
+  - Attach the VAT certificate (on slack/orders channel)
+  - Select the intended use for EACH line on the requisition as shown below:
+  - 01 - ZR MEDICAL/VET, CERT REQUIRED - Purchase, repair or maintenance of equipment, software, products and substances used SOLELY in medical and veterinary research, training, diagnosis, treatment and care.
+- Office equipment such as stationery is not VAT exempt and has use code 03 instead.
 - Double check your delivery location and Charge account BEFORE submitting the order.
 
 If in doubt, ask for help before you submit.
