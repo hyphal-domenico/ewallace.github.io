@@ -24,7 +24,7 @@ Remember, this is going to be on a public website, so no passwords or personal i
 
 
 
-## Ordering 
+## Ordering
 
 We are now (November 2022) doing all ordering through the new [People & Money system](https://www.ed.ac.uk/staff/services-support/hr-and-finance/people-and-money-system).
 This is widely acknowledged to be a disaster and will hopefully get better in the coming months.
@@ -63,7 +63,7 @@ The procedure is basically the same if you are sending or receiving.
 
 1. Email swann.stores@ed.ac.uk with saying that you need to send or receive a package. Include the address, describe the contents (including ice or dry ice), and the approximate size and weight. FedEx and DHL deliver to different regions, if in doubt ask the stores team which carrier to use.
 2. If RECEIVING, stores team will send you a label and maybe a customs form, forward this to the people sending you stuff.
-3. If SENDING, 
+3. If SENDING,
   - scavenge for shipping material, containers, etc., it's usually possible to find something
   - make up your package
   - include paperwork inside describing the contents
@@ -98,11 +98,15 @@ We buy dry ice from [Chemistry Stores](https://www.chem.ed.ac.uk/research/facili
 
 ## DeNovix / nanodrop
 
-To move data from from the nanodrop to lab notebook or datastore, you can put the file onto a USB drive.
-From the Report or Graph screen, data can be exported and saved to a FAT32 formatted USB drive.
+To move data from from the nanodrop to lab notebook or datastore, you can sent it to yourself via email export. To do that:
+* select measurements on the report panel -> tap on share  -> email -> select your name from the drop down menu -> send
+* to add your contact to the menu go on the accounts app -> open the dropdown menu -> select address book and add your email
+
+You will receive your data in csv format from wallace_lab_denovix@outlook.com.
+
+Alernatively, you use a USB drive. From the Report or Graph screen, data can be exported and saved to a FAT32 formatted USB drive.
 A pdf can also be generated and saved. On the Graphs page spectral graphs can be screen captured and the png file may be exported and saved to a USB drive.
 
-The nanodrop is also connected to the network, and it is theoretically possible to export by email.
 For more information, see the Data Export and Print Options section of the [Denovix DS-11 user guide](https://www.denovix.com/pdf/ds-11-series-user-guide.pdf).
 
 ## Plate reader booking
@@ -138,9 +142,9 @@ Save multiple files directly from the Lightcycler software, ensuring that your n
 1. From the navigator page select your experiment and export data in native .ixo format.
 2. From the same navigator page, export full data in plain-text .txt format.
 3. For Ct/Cq values, from the analysis page, go to "Ct values, fit points", calculate Ct values, then export the whole Ct table in plain-text format. If you used only some of the wells, click and drag the mouse over the wells you have used in your plate to highlight them before exporting.
-4. For Absquant/2nd derivative max. Export the .ixo AND .txt files. 
+4. For Absquant/2nd derivative max. Export the .ixo AND .txt files.
 
-Why both filetypes? 
+Why both filetypes?
 The `.ixo` files are good if you ever wanted to open them on the Roche lightcycler software again.
 The `.txt` files are good if you want to do anything else with the files, for example open in R or analyze with [tidyqpcr])(https://github.com/ewallace/tidyqpcr).
 
@@ -154,10 +158,10 @@ https://www.bioline.com/media/calculator/01_07.html
 
 ## Fragment Analyzer Maintenance
 
-There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules. 
-Maintenance of the Fragment Analyzer is the responsibility of all users. 
-Please fill in the forms in the red folder when carrying out any maintenance tasks. 
-These include changing buffers. 
+There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules.
+Maintenance of the Fragment Analyzer is the responsibility of all users.
+Please fill in the forms in the red folder when carrying out any maintenance tasks.
+These include changing buffers.
 If the forms are full new ones can be printed off from data store under `wallace_rna/admin/Fa Maintenance schedule`.
 
 Any questions, ask Liz Hughes.
@@ -169,14 +173,14 @@ Any questions, ask Liz Hughes.
 -	If sterile plates are unavailable, you can perform UV sterilization using the UV Crosslinker next to the DeNovix/nanodrop.
 -	In a sterile environment, fill wells in the storage plate with 50 µL of sterile 30-50% glycerol. You can use the multichannel dispenser for efficiency.
 -	Transfer 50 µL of overnight culture to each well. Remember to accurately note down the well corresponding to each strain (have an excel sheet ready before preparing your stocks).
--	Cover the plate with sterile adhesive film and mark it for easier orientation. Label your plate and note down its location in the -80 freezer. 
+-	Cover the plate with sterile adhesive film and mark it for easier orientation. Label your plate and note down its location in the -80 freezer.
 -	Upon verification of strains, you can now streak out the small glycerol stocks to make proper 1ml stocks.
--	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this. 
+-	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this.
 -	Once done, use new adhesive film to re-cover the opened well.
 
 ## Sterilizing multiwell plates using UV Crosslinker
 
-HELP! 
+HELP!
 How do I use the UV Crosslinker? How long should I sterilize?
 
 
@@ -189,7 +193,7 @@ Please use our spend-down account that currently costs £3.50 per sequencing rea
 
 To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
 Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
-Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to: 
+Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to:
 
 ```
 DNA Sequencing and Services
@@ -254,7 +258,7 @@ bs auth
 bs whoami
 
 # List projects! fastq files are in "projects"
-bs list projects 
+bs list projects
 
 # this will give you a project id number XXXXXXXXX and name AB_namebit_dddddd
 # update the id and name to correspond to the project you wish to download
