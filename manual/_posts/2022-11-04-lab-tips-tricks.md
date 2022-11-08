@@ -23,33 +23,54 @@ Remember, this is going to be on a public website, so no passwords or personal i
 {:toc}
 
 
-## Ordering outside of Sciquest
 
-If you need to order something that is not available on Sciquest and asks for a lab address, please make sure it gets to Graham Nicolson in Roger Land Stores. Use the address:
+## Ordering
 
-Edward Wallace lab  
-c/o Graham Nicolson  
-University of Edinburgh  
-School of Biological Sciences  
-G27 Roger Land Building  
-Alexander Crum Brown Road  
-Edinburgh  
-EH9 3FF  
+### Overview and links
 
-This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
+We are now (November 2022) doing all ordering through the new [People & Money system](https://www.ed.ac.uk/staff/services-support/hr-and-finance/people-and-money-system).
+This is widely acknowledged to be a disaster and will hopefully get better in the coming months.
+People may refer to it as "P&M" or "Pain & Misery".
+Currently in the lab Liz and Domenico are the people who know most about using P&M.
 
-Soon (July 2022) Sciquest will cease to be used, and be replaced by People and Money.
-Pray for us.
+[Link to access people & money](https://elxw.fa.em3.oraclecloud.com/fscmUI/faces/FuseWelcome).
+After logging in using single sign-on (SSO, also known as EASE password) click on the "procurement" tab, then the "shop" button.
+
+The [University procurement site has details of the approved university suppliers.](https://www.ed.ac.uk/procurement)
+Also for "punchout", that is ordering through a supplier's own website using the university's account, see [catalogue supplier list August 2022](https://www.ed.ac.uk/sites/default/files/atoms/files/supplier_catalogues_and_supplier_punchouts_-_august_2022.pdf).
+
+Some reagents are in-stock on campus at stores locations.
+[This page has a list of the different stores and an up to date list of items available, including order codes. It gets updated regularly.](https://www.ed.ac.uk/procurement/stores-operations)
+
+Here is [School of Biological Sciences People and Money Help Site](https://uoe.sharepoint.com/sites/Biology/PeopleandMoney/SitePages/Home.aspx)
 
 
-## Sending and delivering reagents
+### Get the address, VAT, and intended use right for orders
+
+Make sure orders get to Roger Land Stores. 
+For delivery address on the requisition in P&M you HAVE to put in:
+**School of Biological Sciences - Roger Land Building Stores**.
+or else I am told that "all hell will rain down on to you" - I think hell rains down mostly in the form of emails, also, the order will not arrive.
+
+Also, to place an order successfully you have to....
+- For lab reagents that are reasonably described as used in medical research (we work on fungal pathogens!):
+  - Attach the VAT certificate (on slack/orders channel)
+  - Select the intended use for EACH line on the requisition as shown below:
+  - 01 - ZR MEDICAL/VET, CERT REQUIRED - Purchase, repair or maintenance of equipment, software, products and substances used SOLELY in medical and veterinary research, training, diagnosis, treatment and care.
+- Office equipment such as stationery is not VAT exempt and has use code 03 instead.
+- Double check your delivery location and Charge account BEFORE submitting the order.
+
+If in doubt, ask for help before you submit.
+
+
+## Sending and delivering reagents (NEEDS UPDATING Nov 2022)
 
 To send things to another lab or request from elsewhere, you can use FedEx or DHL arranged via the Stores team.
 The procedure is basically the same if you are sending or receiving.
 
 1. Email swann.stores@ed.ac.uk with saying that you need to send or receive a package. Include the address, describe the contents (including ice or dry ice), and the approximate size and weight. FedEx and DHL deliver to different regions, if in doubt ask the stores team which carrier to use.
 2. If RECEIVING, stores team will send you a label and maybe a customs form, forward this to the people sending you stuff.
-3. If SENDING, 
+3. If SENDING,
   - scavenge for shipping material, containers, etc., it's usually possible to find something
   - make up your package
   - include paperwork inside describing the contents
@@ -59,15 +80,29 @@ The procedure is basically the same if you are sending or receiving.
   - ask for a tracking number and email that to the recipient, along with a description of the contents
 
 
+For reagent requests from other labs (non-PO so non-P&M) use the address:
+
+Edward Wallace lab  
+c/o Roger Land Stores
+University of Edinburgh  
+School of Biological Sciences  
+G27 Roger Land Building  
+Alexander Crum Brown Road  
+Edinburgh  
+EH9 3FF  
+
+This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
+
+
 ## How to print posters
 
 For example, posters for conferences.
 
 1. Get in touch with the [King's Buildings Copy Centre](https://www.ed.ac.uk/printing/photocopying) and find out the price of the poster you want. Email kbcopy@ed.ac.uk or call them.
-2. Email Graham and Davey at swann.stores@ed.ac.uk with subject: "eIT code for poster". Specify the size, type (e.g. fabric), and quoted price of the poster from the Copy Centre, and give them the full grant code (6-digit cost centre, 6-digit grant code).
-3. Graham and Davey will email you back with the eIT code.
-4. Send the eIT code back to the Copy Centre with the pdf of your poster and repeat your size/type requirements.
-5. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB (follow the signs).
+2. Fill in the Interim Purchase Order Request Form (it's on slack/orders), including the quoted price of the poster from the Copy Centre, and the full grant code (6-digit cost centre, 6-digit grant code).
+3. Return the form to the Copy Centre, kbcopy@ed.ac.uk
+4. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB (follow the signs).
+
 
 
 ## Dry ice
@@ -77,18 +112,22 @@ Make sure to read & respect safety and risk assessments: dry ice causes burns.
 
 We buy dry ice from [Chemistry Stores](https://www.chem.ed.ac.uk/research/facilities) in the [Joseph Black building](https://www.ed.ac.uk/maps/maps?building=0632).
 
-1. Point your web browser to [eStores](http://www.estores.finance.ed.ac.uk/) and purchase dry ice, usually 2x 10kg bags.
+1. It is theoretically possible to use People & Money to purchase dry ice, usually 2x 10kg bags.
 2. Go to chemistry stores with a trolley, another person, and insulated gloves. If in doubt ask a servitor for directions - it's past the mass spec room.
 3. Collect dry ice, bring it back on the trolley, and deposit it in the blue canister. Be careful because dry ice is heavy and dangerously cold. That's why you need the other person, the trolley, and the gloves.
 
 
 ## DeNovix / nanodrop
 
-To move data from from the nanodrop to lab notebook or datastore, you can put the file onto a USB drive.
-From the Report or Graph screen, data can be exported and saved to a FAT32 formatted USB drive.
+To move data from from the nanodrop to lab notebook or datastore, you can sent it to yourself via email export. To do that:
+* select measurements on the report panel -> tap on share  -> email -> select your name from the drop down menu -> send
+* to add your contact to the menu go on the accounts app -> open the dropdown menu -> select address book and add your email
+
+You will receive your data in csv format from wallace_lab_denovix@outlook.com.
+
+Alernatively, you use a USB drive. From the Report or Graph screen, data can be exported and saved to a FAT32 formatted USB drive.
 A pdf can also be generated and saved. On the Graphs page spectral graphs can be screen captured and the png file may be exported and saved to a USB drive.
 
-The nanodrop is also connected to the network, and it is theoretically possible to export by email.
 For more information, see the Data Export and Print Options section of the [Denovix DS-11 user guide](https://www.denovix.com/pdf/ds-11-series-user-guide.pdf).
 
 ## Plate reader booking
@@ -124,9 +163,9 @@ Save multiple files directly from the Lightcycler software, ensuring that your n
 1. From the navigator page select your experiment and export data in native .ixo format.
 2. From the same navigator page, export full data in plain-text .txt format.
 3. For Ct/Cq values, from the analysis page, go to "Ct values, fit points", calculate Ct values, then export the whole Ct table in plain-text format. If you used only some of the wells, click and drag the mouse over the wells you have used in your plate to highlight them before exporting.
-4. For Absquant/2nd derivative max. Export the .ixo AND .txt files. 
+4. For Absquant/2nd derivative max. Export the .ixo AND .txt files.
 
-Why both filetypes? 
+Why both filetypes?
 The `.ixo` files are good if you ever wanted to open them on the Roche lightcycler software again.
 The `.txt` files are good if you want to do anything else with the files, for example open in R or analyze with [tidyqpcr])(https://github.com/ewallace/tidyqpcr).
 
@@ -140,10 +179,10 @@ https://www.bioline.com/media/calculator/01_07.html
 
 ## Fragment Analyzer Maintenance
 
-There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules. 
-Maintenance of the Fragment Analyzer is the responsibility of all users. 
-Please fill in the forms in the red folder when carrying out any maintenance tasks. 
-These include changing buffers. 
+There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules.
+Maintenance of the Fragment Analyzer is the responsibility of all users.
+Please fill in the forms in the red folder when carrying out any maintenance tasks.
+These include changing buffers.
 If the forms are full new ones can be printed off from data store under `wallace_rna/admin/Fa Maintenance schedule`.
 
 Any questions, ask Liz Hughes.
@@ -155,14 +194,14 @@ Any questions, ask Liz Hughes.
 -	If sterile plates are unavailable, you can perform UV sterilization using the UV Crosslinker next to the DeNovix/nanodrop.
 -	In a sterile environment, fill wells in the storage plate with 50 µL of sterile 30-50% glycerol. You can use the multichannel dispenser for efficiency.
 -	Transfer 50 µL of overnight culture to each well. Remember to accurately note down the well corresponding to each strain (have an excel sheet ready before preparing your stocks).
--	Cover the plate with sterile adhesive film and mark it for easier orientation. Label your plate and note down its location in the -80 freezer. 
+-	Cover the plate with sterile adhesive film and mark it for easier orientation. Label your plate and note down its location in the -80 freezer.
 -	Upon verification of strains, you can now streak out the small glycerol stocks to make proper 1ml stocks.
--	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this. 
+-	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this.
 -	Once done, use new adhesive film to re-cover the opened well.
 
 ## Sterilizing multiwell plates using UV Crosslinker
 
-HELP! 
+HELP!
 How do I use the UV Crosslinker? How long should I sterilize?
 
 
@@ -175,7 +214,7 @@ Please use our spend-down account that currently costs £3.50 per sequencing rea
 
 To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
 Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
-Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to: 
+Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to:
 
 ```
 DNA Sequencing and Services
@@ -240,7 +279,7 @@ bs auth
 bs whoami
 
 # List projects! fastq files are in "projects"
-bs list projects 
+bs list projects
 
 # this will give you a project id number XXXXXXXXX and name AB_namebit_dddddd
 # update the id and name to correspond to the project you wish to download

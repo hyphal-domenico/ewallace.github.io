@@ -8,7 +8,7 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated July 2022*
+# Meetings - *updated November 2022*
 {: .no_toc }
 
 This page covers basic expectations for meetings in the lab:
@@ -28,6 +28,7 @@ Please give enough notice (2 hours) if you will join a meeting by zoom, so that 
 # Lab meetings for everyone (weekly)
 
 Lab meetings are the regular opportunity for the whole group to come together to talk about science, and about important logistics.
+Please schedule other responsibilities to avoid lab meetings where possible.
 Lab meetings are a mutually respectful and supportive environment.
 
 Lab meetings can take various formats:
@@ -35,26 +36,27 @@ Lab meetings can take various formats:
 * Research update - led by a single lab member, is most common
 * One-slide meeting -  everyone presents one slide on their recent work
 * Guest presentation from someone outside the lab
-* Journal clubs are now separate - one or more lab members lead discussion of a relevant paper
+* Journal clubs - one or more lab members lead discussion of a relevant paper
 * Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting
 
 Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
 
-Currently Sam Haynes is organising the lab meeting schedule.
-Please give Sam at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
+Currently Edward is organising the lab meeting schedule.
+The lab meeting schedule is updated on the lab outlook calendar, and discussed every so often on slack or in-person at lab meetings.
+Please give at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
 
 
 ## Timing
 
-Lab meetings are **10:30-12:00 Mondays** in Waddington 1.07 (through summer 2022).
+Lab meetings are **09:30-11:00 Wednesdays** in Waddington 1.07 (through summer 2023).
 
-* 10:15 meeting opens, drift in with coffee/tea, chat and discuss lab business
-* 10:30 prompt, presentation starts
-* 11:45 latest, show the last slide
+* 9:15 someone hopefully volunteers to make coffee?
+* 9:30 prompt, presentation starts
+* 10:45 latest, show the last slide
 * Discuss any other lab business
-* 12:00, everyone should leave (reminder that ICMB Monday seminars are usually at this time)
+* 11:00, everyone should leave
 
-We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The new timetable seems to work well as long as we are disciplined about starting on time.
+We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The current timetable seems to work well as long as we are disciplined about starting on time.
 
 
 ## Giving a Research update lab meeting
@@ -120,24 +122,25 @@ In brief, everyone presents one slide on their recent work. Guidelines:
 Claus Wilke’s blogpost, [share your preliminary work with other people](https://serialmentor.com/blog/2014/7/8/share-your-preliminary-work-with-other-people-even-if-you-think-its-crap), gives an eloquent perspective.
 
 
-# Journal club meetings (about fortnightly)
+## Journal clubs 
 
-From September 2021 we have been trying more regular dedicated journal clubs.
-We will try these on Thursdays at 11am "opposite" to the SynthSys OCM Thursdays.
-Same lab meeting link, also listed on the lab calendar.
-
-Roughly they work like:
+Roughly we like to do journal clubs:
 
 * We choose a relevant paper, that everyone should read before the meeting. Come prepared to talk about what you learned from the paper and any questions you have.
 * The paper can be old, new, or a preprint. The big criteria for choice is that it has to be valuable for us to discuss as a group. Maybe it's the ideas, maybe the methods, maybe the subject matter.
-* Discussion is usually led by one person, and/or can be shared around the group. We don't need perfect presentations, just some structure for a good discussion.
+* Discussion is usually led by one person (leader), and/or can be shared around the group. We don't need perfect presentations, just enough structure for a good discussion.
 * It is usually helpful to start with some context about why the paper was written and why you chose the paper / why it's relevant to us.
 * The leader is encouraged to showcase their own data/project or other related information in the light of the main journal club paper. These have been some of the most useful journal club moments.
-* Everyone suggests papers for next subgroup meeting, and we decide on one of them. It is ok to suggest a paper that you have already read.
+* Everyone suggests papers for next meeting, and we decide on one of them. It is ok to suggest a paper that you have already read.
 * PI aims to attend all journal clubs, however it's fine for them to continue even if PI can't attend.
 
+Thoughtful article on [Interactive Journal Club: Teaching an Old Dog New Tricks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5736299).
 
-### Subgroup meetings are no longer happening
+In 2021 and 2022 we tried more regular fortnightly dedicated journal clubs.
+We did these on Thursdays at 11am "opposite" to the SynthSys OCM Thursdays, also on a different day on the lab calendar.
+
+
+### Subgroup meetings (no longer happening)
 
 From January to June 2021 we tried journal clubs in themed subgroups:
 
@@ -147,8 +150,9 @@ From January to June 2021 we tried journal clubs in themed subgroups:
 * Ribosome profiling had a separate meeting on Wednesday afternoons, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
 
 There was a lot of learning that happened, despite the large time commitment and stress of working from home and/or shift system.
+We stopped doing these when people moved back to work in lab more.
 
-Sometimes we tried a different format, for example discussing a manuscript draft or designing a tricky experiment. We aim to announce the subgroup agenda 2 weeks in advance in any case.
+Sometimes we tried a different format, for example discussing a manuscript draft or designing a tricky experiment. 
 
 
 # 1-1 meetings (fortnightly)
@@ -169,8 +173,10 @@ Why bother with these guidelines and with writing notes?
 * Guidelines are a [checklist](http://atulgawande.com/book/the-checklist-manifesto/) to make sure we cover the important points.
 * Notes act as a "diary" of what we did, which makes it easier.
 * It's pretty easy to misunderstand each other, especially on zoom. Written notes help to clear up those misunderstandings, and especially to clarify what is and is not a priority.
+* "Producing a record of each key supervision meeting and forwarding it to their supervisor for agreement," is a responsibility for research students in the [University's code of practice for students and supervisors](https://www.ed.ac.uk/academic-services/students/code-of-practice).
 
 Project students should find these guidelines useful to make the most of their meetings with the PI and any co-supervisors, although the meetings may have a different frequency or format.
+
 
 ## 1-1 meeting timings
 
@@ -187,4 +193,4 @@ Guidelines:
 * Organize a lab social when you feel like it. 
 * Be inclusive. 
 
-We also have an irregular lab coffee 10:30am Fridays.
+We also have an very irregular lab coffee 10:30am Fridays.
