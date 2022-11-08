@@ -10,7 +10,9 @@ github: Eldonoho99
 ORCID: 
 scholar: 
 image: /assets/images/team/eleanor-donohoe-2022.png
-alum: false
+alum: true
 ---
 
-Eleanor Donohoe is a postgraduate student doing her MSc dissertation project. She graduated with a degree in Human Genetics from Trinity College Dublin in 2021. She is working in the Wallace lab using the open-source software package ‘riboviz’ to study the effect of inhibitory codons on slowing down translation in Fungi species.
+Eleanor Donohoe was a postgraduate student who did her MSc bioinformatics dissertation project in the group.
+She worked in the Wallace lab using the open-source software package ‘riboviz’ to study the effect of inhibitory codons on slowing down translation in fungal species.
+Eleanor previously graduated with a degree in Human Genetics from Trinity College Dublin in 2021. 
