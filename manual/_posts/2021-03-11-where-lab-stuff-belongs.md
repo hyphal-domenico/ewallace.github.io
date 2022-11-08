@@ -25,13 +25,22 @@ This spreadsheet contains details on everything that we have in the lab, split i
 
 ## Inventory ordering and tracking
 
-This inventory sheet doubles as our order tracking system. Currently, the bulk of the ordering is carried out by Rosey Bayne and Laura Tuck. If you have a Sciquest account and order your own reagents/consumables, please specify what you are ordering in the “Orders” channel on Slack, and add details on to the spreadsheet. If you do not have your own Sciquest account, please give details of what you would like to order, catalogue number and quantity on the “Orders” channel on Slack.
+This inventory sheet doubles as our order tracking system. Currently, the bulk of the ordering is carried out by Liz Hughes.
+If you order your own reagents/consumables, please specify what you are ordering in the “Orders” channel on Slack, and add details on to the spreadsheet.
+If you do not, please give details of what you would like to order, catalogue number and quantity on the “Orders” channel on Slack.
 
-After an item has been ordered, it will be highlighted in red on the inventory spreadsheet. If you are in the lab when the order comes in, please make sure to put the item in its correct location, and once you have done this please turn the text for this item back to black on the inventory spreadsheet. If you are unsure about storage of new items, please check the MSDS sheet if applicable, or ask another lab member to help you out with this. 
+After an item has been ordered, it will be highlighted in red on the inventory spreadsheet.
+If you are in the lab when the order comes in, please make sure to put the item in its correct location, and once you have done this please turn the text for this item back to black on the inventory spreadsheet.
+If you are unsure about storage of new items, please check the MSDS sheet if applicable, or ask another lab member to help you out with this. 
+
 
 ## Strains, Plasmids, etc.
 
-For DNA and plasmids, everyone has space in our -20ºC freezer in room 2.19 to store working stocks for daily use. We also have a lab fridge in room 2.19, where bacterial/yeast plates can be stored in the short-term whilst experiments are ongoing. 
+For DNA and plasmids, everyone has space in our -20ºC freezer in room 2.19 to store working stocks for daily use.
+We also have a lab fridge in room 2.19, where bacterial/yeast plates can be stored in the short-term whilst experiments are ongoing. 
+
+The lab's main database of strains and plasmids is on datastore at `wallace_rna/inventories/WallaceLab_StrainsPlasmids.xlsx`.
+
 
 ### The importance of long-term stocks
 
