@@ -234,11 +234,15 @@ We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so
 
 ## Whole-plasmid sequencing with Plasmidsaurus
 
-New June 2022, there is Plasmidsaurus dropbox at Chancellor's Building, Little France. Plasmidsaurus (https://www.plasmidsaurus.com) offer whole-plasmid sequencing at $15 / sample, see their website for details.
+There are Plasmidsaurus dropboxes at Chancellor's Building, Little France and at the Institute of Genetic and Cancer, Western General. Plasmidsaurus (https://www.plasmidsaurus.com) offer whole-plasmid sequencing at $15 / sample, see their website for details.
 
-You can drop samples in the box directly, or via internal mail. To send by internal mail. Put your sample packet/envelope in an internal mail envelope marked "Chancellor's Building Reception, Plasmidsaurus Dropbox, Bioquarter/Little France" Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/), including ordering/payment information (HELP).
+You can drop samples in the box directly, or via internal mail. To send by internal mail. Put your sample packet/envelope in an internal mail envelope marked "Chancellor's Building Reception, Plasmidsaurus Dropbox, Bioquarter/Little France" or "Institute of Genetics and Cancer Reception, Plasmidsaurus Dropbox, Western General Hospital Campus".
 
-Collection is just once a month at the moment. The first Thursday of every month at 9am. First collection is 7th of July 2022. If there is enough initial use (which seems likely), frequency will go up to weekly or bi-weekly.
+Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/). We use a shared lab account to order, details can be found within the group datastore in */admin/useful_information/plasmidsaurus_account.rtf*.
+
+Collections:
+ - Western General, every Thursday at 4 pm.
+ - Little France, 1st Thursday of each month at 9am.
 
 
 ## High-throughput sequencing at WTCRF genetics core
