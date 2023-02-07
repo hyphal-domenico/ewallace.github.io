@@ -10,7 +10,7 @@ github: davbunn1
 ORCID: 
 scholar: 
 image: /assets/images/team/david-bunn.jpg
-alum: true
+alum: false
 ---
 
 David Bunn is a 4th year Undergraduate in the Biochemistry honours programme. In January 2023 he joined the Wallace lab to undertake a RiboViz honours project alongside Hannah Maroof. 
