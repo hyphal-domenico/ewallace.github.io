@@ -24,11 +24,11 @@ Remember, this is going to be on a public website, so no passwords or personal i
 
 
 
-## Ordering
+# Ordering
 
-### Overview and links
+## Overview and links
 
-We are now (November 2022) doing all ordering through the new [People & Money system](https://www.ed.ac.uk/staff/services-support/hr-and-finance/people-and-money-system).
+We are now (2023) doing all ordering through the new [People & Money system](https://www.ed.ac.uk/staff/services-support/hr-and-finance/people-and-money-system).
 This is widely acknowledged to be a disaster and will hopefully get better in the coming months.
 People may refer to it as "P&M" or "Pain & Misery".
 Currently in the lab Liz and Domenico are the people who know most about using P&M.
@@ -45,7 +45,7 @@ Some reagents are in-stock on campus at stores locations.
 Here is [School of Biological Sciences People and Money Help Site](https://uoe.sharepoint.com/sites/Biology/PeopleandMoney/SitePages/Home.aspx)
 
 
-### Get the address, VAT, and intended use right for orders
+## Get the address, VAT, and intended use right for orders
 
 Make sure orders get to Roger Land Stores. 
 For delivery address on the requisition in P&M you HAVE to put in:
@@ -62,8 +62,51 @@ Also, to place an order successfully you have to....
 
 If in doubt, ask for help before you submit.
 
+# Ordering Oligos
 
-## Sending and delivering reagents (NEEDS UPDATING Nov 2022)
+We order our oligos from IDT https://www.idtdna.com.
+We have prepaid for oligos using an oligocard.
+If you are a PhD student or other person with your own funding, you may wish to purchase a separate oligocard.
+
+
+To order via the IDTwebsite:
+
+- **Sign in**: We have an account for the lab, username ehughes,  ask someone for the password.  
+- Order your oligos. If you have previously designed
+- **Click**: Continue  
+- **Click**: Add to cart  
+- **Click**: Checkout  
+- Leave the shipping and billing details as they are.   
+- **Select**: This purchase is eligible for VAT zero.  
+- Enter the VAT Number: 592 9507 00  
+- **Click**: Continue  
+- **Select**: Oligocard  
+- Enter the oligocard Number. Lab oligocard as of 2023 is **818805841067**.
+- Add your email address  
+- **Click**: Submit order  
+
+
+## Tips on designing primers for qPCR:
+
+For quantitative PCR primer design there are some other important tips:
+
+- Sign in to IDT as above
+- Select Tools > qPCR assay design  > Primerquest Tool  
+- Enter the sequence and give it a name.  
+- **Choose**: qPCR 2 primers Intercalating dyes. Check ALL the parameters.
+- You will be taken to a new page with 5 options of primer pairs called assays.  
+- Use netprimer to check each primer set for secondary structures. This is important as secondary structures can severely impact sensitivity.  
+- Go to www.premierbiosft.com/netprimer  
+- Create your own account.  
+- Read "Primers oligo architect glossary" in wallace_rna > admin > useful information. This will explain the different parameters and what you should be looking for in a good primer pair.  
+- Select 2 of the primer pairs or assays. (1 might not work; select 2)
+- **Click**: Add to Order > Forward and Reverse Primers > Oligos in tubes
+- Continue your order as above.
+
+Note: we should update our protocol to include these tips
+
+
+# Sending and delivering reagents (NEEDS UPDATING Nov 2022)
 
 To send things to another lab or request from elsewhere, you can use FedEx or DHL arranged via the Stores team.
 The procedure is basically the same if you are sending or receiving.
@@ -94,7 +137,7 @@ EH9 3FF
 This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
 
 
-## How to print posters
+# How to print posters
 
 For example, posters for conferences.
 
@@ -105,7 +148,7 @@ For example, posters for conferences.
 
 
 
-## Dry ice
+# Dry ice
 
 Dry ice is stored in the blue insulated canister in the Freezer room in Waddington basement.
 Make sure to read & respect safety and risk assessments: dry ice causes burns.
@@ -117,7 +160,7 @@ We buy dry ice from [Chemistry Stores](https://www.chem.ed.ac.uk/research/facili
 3. Collect dry ice, bring it back on the trolley, and deposit it in the blue canister. Be careful because dry ice is heavy and dangerously cold. That's why you need the other person, the trolley, and the gloves.
 
 
-## DeNovix / nanodrop
+# DeNovix / nanodrop
 
 To move data from from the nanodrop to lab notebook or datastore, you can sent it to yourself via email export. To do that:
 * select measurements on the report panel -> tap on share  -> email -> select your name from the drop down menu -> send
@@ -130,7 +173,8 @@ A pdf can also be generated and saved. On the Graphs page spectral graphs can be
 
 For more information, see the Data Export and Print Options section of the [Denovix DS-11 user guide](https://www.denovix.com/pdf/ds-11-series-user-guide.pdf).
 
-## Plate reader booking
+
+# Plate reader booking
 
 For measuring cell growth and fluorescence we use the 4 [TECAN Infinite 200 PRO plate readers](https://lifesciences.tecan.com/plate_readers/infinite_200_pro) in Waddington 2.16 (small dark room off the main lab space).
 Plate readers 1 & 2 are M200s with monochromators that can detect a wider variety of wavelengths.
@@ -142,19 +186,20 @@ You must ask Ivan and/or an expert in our lab to go through plate reader usage b
 It is important to make sure you're fully trained on the plate readers before using them, because they like to break and many people rely on them working.
 
 
-## Lab tablet computers
+# Lab tablet computers
 
 We have three lab tablet computers, two running android for notesm photos, etc., and one windows for the little microscope and scanners.
 
-### Android tablets
+## Android tablets
 
 HELP
 
-### Windows tablet
+## Windows tablet
 
 HELP
 
-## qPCR Analysis
+
+# qPCR Analysis
 
 On the computer connected to the Roche Lightcycler 480 qPCR machine in Waddington 3.18, the generated files are stored in:
 `My documents > Program files> Roche> Light cycler 480> Bin`
@@ -170,14 +215,14 @@ The `.ixo` files are good if you ever wanted to open them on the Roche lightcycl
 The `.txt` files are good if you want to do anything else with the files, for example open in R or analyze with [tidyqpcr])(https://github.com/ewallace/tidyqpcr).
 
 
-## Transformation fmol calculator
+# Transformation fmol calculator
 
 This website can be used to calculate fmol concentrations for insert:vector for transformations.
 
 https://www.bioline.com/media/calculator/01_07.html
 
 
-## Fragment Analyzer Maintenance
+# Fragment Analyzer Maintenance
 
 There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules.
 Maintenance of the Fragment Analyzer is the responsibility of all users.
@@ -188,7 +233,7 @@ If the forms are full new ones can be printed off from data store under `wallace
 Any questions, ask Liz Hughes.
 
 
-## Tip for making glycerol stocks in bulk
+# Tip for making glycerol stocks in bulk
 
 - start by using a sterile 24-well plate or 96-well plate
 -	If sterile plates are unavailable, you can perform UV sterilization using the UV Crosslinker next to the DeNovix/nanodrop.
@@ -199,13 +244,14 @@ Any questions, ask Liz Hughes.
 -	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this.
 -	Once done, use new adhesive film to re-cover the opened well.
 
-## Sterilizing multiwell plates using UV Crosslinker
+
+# Sterilizing multiwell plates using UV Crosslinker
 
 HELP!
 How do I use the UV Crosslinker? How long should I sterilize?
 
 
-## Sanger Sequencing with MRC PPU Dundee
+# Sanger Sequencing with MRC PPU Dundee
 
 We use [MRC PPU in Dundee](https://dnaseq.co.uk) for routine Sanger sequencing of plasmid segments and PCR products.
 Wallace lab code is 2248, and the lab address as the invoice address.
@@ -241,12 +287,12 @@ You can drop samples in the box directly, or via internal mail. To send by inter
 Collection is just once a month at the moment. The first Thursday of every month at 9am. First collection is 7th of July 2022. If there is enough initial use (which seems likely), frequency will go up to weekly or bi-weekly.
 
 
-## High-throughput sequencing at WTCRF genetics core
+# High-throughput sequencing at WTCRF genetics core
 
 Currently we do all our high-throughput sequencing (RNA-seq, library prep, self-prepared libraries, Illumina) at the [WTCRF genetics core](https://www.ed.ac.uk/clinical-research-facility/core-services/genetics), which is at Western General Hospital campus just across town.
 Discuss your experimental goals and design with Edward first and we will then contact the genetics core team.
 
-### Downloading high-throughput sequencing data
+## Downloading high-throughput sequencing data
 
 See more at [fastq directory instructions, in where data belongs manual page](where-data-belongs#fastq-directory-instructions).
 
@@ -300,7 +346,7 @@ After this, be sure to update the `/wallace_rna/bigdata/fastq/README.md` file.
 Then log out of Eddie.
 
 
-## bifx servers
+# bifx servers
 
 The bifx (short for bioinformatics) servers are run by Shaun, Dan, and Hywel at the Welcome Centre for Cell Biology in Swann.
 Sometimes they are a good option for bioinformatics analysis.
