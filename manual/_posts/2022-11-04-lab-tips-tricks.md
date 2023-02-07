@@ -62,6 +62,33 @@ Also, to place an order successfully you have to....
 
 If in doubt, ask for help before you submit.
 
+### Ordering Oligos
+We order our oligos from IDT  https://www.idtdna.com  
+
+  - **Sign in**: We have an account for the lab so ask someone for the sign in details.  
+  - Select Tools > qPCR assay design  > Primerquest Tool  
+  - Enter the sequence and give it a name.  
+  - **Choose**: qPCR 2 primers Intercalating dyes  
+  - You will be taken to a new page with 5 options of primer pairs called assays.  
+  - Use netprimer to check each primer set for secondary structures. This is important as secondary structures can severely impact sensitivity.  
+  - Go to www.premierbiosft.com/netprimer  
+  - Create your own account.  
+  - Read "Primers oligo architect glossary" in wallace_rna > admin > useful information. This will explain the different parameters and what you should be looking for in a good primer pair.  
+  - Select 2 of the primer pairs or assays.  
+  - **Click**: Add to Order > Forward and Reverse Primers > Oligos in tubes  
+  - **Click**: Continue  
+  - **Click**: Add to cart  
+  - **Click**: Checkout  
+  - Leave the shipping and billing details as they are.   
+  - **Select**: This purchase is eligible for VAT zero.  
+  - Enter the VAT Number: 592 9507 00  
+  - **Click**: Continue  
+  - **Select**: Oligocard  
+  - Enter the oligocard Number: **818805841067**  
+  - Add your email address  
+  - **Click**: Submit order  
+
+
 
 ## Sending and delivering reagents (NEEDS UPDATING Nov 2022)
 
