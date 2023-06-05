@@ -10,8 +10,9 @@ github: davbunn1
 ORCID: 
 scholar: 
 image: /assets/images/team/david-bunn.jpg
-alum: false
+alum: true
 ---
 
-David Bunn is a 4th year Undergraduate in the Biochemistry honours programme. In January 2023 he joined the Wallace lab to undertake a RiboViz honours project alongside Hannah Maroof. 
+David Bunn was an Undergraduate in the Biochemistry honours programme.
+In January 2023 he joined the Wallace lab to undertake a RiboViz honours research project alongside Hannah Maroof. 
 David is planning to continue his studies at the University of Edinburgh in 2023/24 as a masters student in Operational Research.

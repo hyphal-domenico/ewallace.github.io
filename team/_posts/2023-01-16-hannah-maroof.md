@@ -10,8 +10,9 @@ github: HannahMaroof
 ORCID: 
 scholar: 
 image: /assets/images/team/Hannah_Maroof.jpeg
-alum: false
+alum: true
 ---
 
-Hannah Maroof is a 4th year Undergraduate on the Genetics honours programme. In January 2023 she joined the Wallace lab to undertake a RiboViz honours project alongside David Bunn. 
+Hannah Maroof was an Undergraduate on the Genetics honours programme.
+In January 2023 she joined the Wallace lab to undertake a RiboViz honours research project alongside David Bunn. 
 Hannah is planning to take a year out after her undergraduate and hopefully come back for a masters in 2024/25.

@@ -10,10 +10,10 @@ github: Kexin-Xiong
 ORCID: 
 scholar: 
 image: /assets/images/team/Kexin-Xiong.jpeg
-alum: false
+alum: true
 ---
 
-Kexin Xiong is a 4th year Undergraduate in the Biochemistry honours programme.
-In January 2023 she joined the Wallace lab to undertake a honours project 
+Kexin Xiong was an undergradate in the Biochemistry honours programme.
+In January 2023 she joined the Wallace lab to undertake a 4th year Undergraduate honours project 
 alongside Ines De Carvalho Goncalves. 
 Kexin plans to apply for a Masters degree in universities in Asia after she graduates.
