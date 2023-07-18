@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Repeated evolution of inactive pseudonucleases in a fungal branch of the Dis3/RNase II family of nucleases"
-year: "2020"
-shortref: "Ballou <i>et al.</i> <i>MBE</i> 2020"
+year: "2021"
+shortref: "Ballou <i>et al.</i> <i>MBE</i> 2021"
 nickname: ssd1-evolution
 journal: "Molecular Biology & Evolution"
 volume: 38

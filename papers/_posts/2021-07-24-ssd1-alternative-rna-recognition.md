@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Yeast Ssd1 is a non-enzymatic member of the RNase II family with an alternative RNA recognition interface"
-year: "2021"
-shortref: "Bayne <i>et al.</i> <i>NAR</i> 2021"
+year: "2022"
+shortref: "Bayne <i>et al.</i> <i>NAR</i> 2022"
 nickname: ssd1-structure-function
 journal: "Nucleic Acids Research"
 volume: 50
