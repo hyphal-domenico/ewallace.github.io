@@ -27,12 +27,74 @@ Dealing with data is important and can get complex.
 Here are some helpful resources that make it easier to deal with data effectively.
 The first two papers are essential reading.
 
-* [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+* [Good enough practices in scientific computing, article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+* [Good enough practices in scientific computing, lesson website with links](https://carpentries-lab.github.io/good-enough-practices/)
 * [How to Share Data for Collaboration, Shannon E. Ellis & Jeffrey T. Leek](https://doi.org/10.1080/00031305.2017.1375987)
 * [Edinburgh's BioRDM team](https://www.ed.ac.uk/biology/research/facilities/research-data-management)
 * To be continued...
 
 TODO: make a plan for storing microscopy images.
+
+
+## README files
+
+It is very helpful to give a brief overview of folders containing data that says "read me first to understand what's here", called a [README file](https://carpentries-lab.github.io/good-enough-practices/05-project_organization.html#readme-files-are-magic). 
+
+Different projects will have different needs, for example there are alternative needs for cloning projects, software projects, manuscript drafts, etc.
+The test is, can someone read the README file and know if the directory contains what they need?
+Can they find what they need in under 5 minutes?
+README files are mutually supportive with the lab notebook.
+
+Edward's default recipe for README file example of a small cloning/lab project is below, certified to prevent him from screaming.
+
+Create a new file called README.md (in markdown plain-text format) in the directory, adapted from:
+
+
+```
+# COPY NAME OF DIRECTORY AS FIRST LINE
+
+This directory contains materials for GOAL OF PROJECT
+
+Materials include DELETE/ADD AS APPROPRIATE
+- fasta files with gene sequences
+- .txt files with lists of oligos to order
+- snapgene files with annotated sequences and plasmid maps
+- .svg files with figures describing the designs
+- ETC.
+
+This material is also used in/uses  LINK TO LAB NOTEBOOK, OTHER DIRECTORY, ETC
+The work was done by YOUR NAME AND THE DATE
+(and updated ADD MORE NAMES AND DATES IF USEFUL)
+
+MORE BRIEF EXPLANATION AS NEEDED
+
+# Contents
+
+COPY THE LIST OF SUBDIRECTORIES AND FILES
+
+MAKE SUBDIRECTORIES INTO SUBHEADINGS AND THE FILENAMES INTO BULLET PINTS, WITH 1-SENTENCE EXPLANATION OF EACH
+
+EXAMPLE:
+
+## L0_plasmids SUBDIRECTORY NAME
+
+Level 0 plasmids containing individual parts to use in gene assemblies
+
+- pXX001_L0_NtermGFP.dna - Level 0 plasmid containing N-terminal GFP tag codon-optimised for Cryptofungus
+- ETC.
+
+
+# TO DO next
+
+The next steps of this project are:
+
+- SAY WHAT'S NEXT
+- SO THAT WHEN YOU READ THIS AGAIN YOU KNOW WHAT TO DO
+
+```
+
+It's good to ask a colleague to have a quick read over and highlight anything unclear, soon after creating the file.
+
 
 # wallace_rna on datastore
 
