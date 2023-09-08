@@ -51,14 +51,14 @@ Please give at least a week's notice of any changes to the schedule, as it is mu
 
 ## Timing
 
-Lab meetings are **15:00-17:00 Wednesdays** in Waddington 1.07 (through summer 2024).
+Lab meetings are **15:00-17:00 Thursdays** in Waddington 1.07 (through summer 2024).
 
 The aim for timing is:
 
 * 14:45 someone hopefully volunteers to make coffee?
 * 15:00 prompt, start of round table with 5 minutes each
 * 15:45 latest, discuss any other lab business
-* 16:00 latest, start of main presentation (research update/journal club/ tc.)
+* 16:00 latest, start of main presentation (research update/journal club/etc.)
 * 16:45 latest, show the last slide
 * 17:00, everyone should leave
 
