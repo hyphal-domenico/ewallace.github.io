@@ -185,6 +185,60 @@ You can then book any of the 4 available plate readers through the [SynthSys sch
 You must ask Ivan and/or an expert in our lab to go through plate reader usage before making your first booking.
 It is important to make sure you're fully trained on the plate readers before using them, because they like to break and many people rely on them working.
 
+# Routine Sequencing
+## Sanger Sequencing with MRC PPU Dundee
+
+We use [MRC PPU in Dundee](https://dnaseq.co.uk) for routine Sanger sequencing of plasmid segments and PCR products.
+Wallace lab code is 2248, and the lab address as the invoice address.
+Sign up for an account on https://dnaseq.co.uk and ask to be added to the lab list.
+Please use our spend-down account that currently costs £3.50 per sequencing reaction.
+
+To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
+Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
+Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to:
+
+```
+DNA Sequencing and Services
+Medical Sciences Institute
+School of Life Sciences
+University of Dundee
+Dundee
+DD1 5EH
+UK
+```
+
+You can then just put the envelope in the Mail Out box in Swann foyer, which is picked up at around 3pm every day.
+
+
+## Sanger Sequencing with Azenta GeneWiz
+
+In September 2023 we set up a lab account for Sanger sequencing with GeneWiz/Azenta.
+
+Guide:
+
+1. Go to the [GeneWiz website](https://www.genewiz.com/en-GB/) and log in.
+  - Login details can be found within the group datastore in */admin/useful_information/genewiz_account.rtf*
+2. To fill a sample sheet go to Genomics Services > Sanger Sequencing Tubes.
+  - Write your name in order name.
+3. Prepare reactions in 1.5mL tubes.
+  - Follow instructions for pre-mixed tubes in the [sample preparation guidlines](https://www.genewiz.com/en-GB/Public/Resources/Sample-Submission-Guidelines/Sanger-Sequencing-Sample-Submission-Guidelines/Sample-Preparation#sanger-sequence).
+4. Add barcodes according to the [guide](https://web.genewiz.com/sanger/labellingyoursamples).
+  - The barcode number in the sample sheet MUST match the physical barcode sticker on the tube.
+  - Physical barcodes stickers are stored in the 2nd drawer underneath the coffee machine in 3.04, in a Yellow DHL envelope labelled ‘GENEWIZ VOUCHERS’.
+5. Place your tubes in a Purple Azenta box with the printed order confirmation form, then write the number of samples on a piece of tape and stick it on the outside of the box.
+  - Sample boxes are stored in 2nd drawer underneath the coffee machine in 3.04.
+  - More sample boxes are found under the dropbox in Swann.
+6. Take your samples to Swann. Take an empty box back to the drawer to replace the one you just used. Daily pickup is at 2 pm in Swann foyer dropbox.
+7. Wait for results, usually received within 1-2 days.
+
+
+## Whole-plasmid sequencing with Plasmidsaurus
+
+Plasmidsaurus (https://www.plasmidsaurus.com) offer whole-plasmid sequencing at $15 / sample, see their website for details.
+
+Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/). We use a shared lab account to order, details can be found within the group datastore in */admin/useful_information/plasmidsaurus_account.rtf*.
+
+There is a Plasmidsaurus Dropbox in the Swann Foyer, weekly pickup is 1pm on Wednesdays. 
 
 # Lab tablet computers
 
@@ -249,46 +303,6 @@ Any questions, ask Liz Hughes.
 
 HELP!
 How do I use the UV Crosslinker? How long should I sterilize?
-
-
-# Sanger Sequencing with MRC PPU Dundee
-
-We use [MRC PPU in Dundee](https://dnaseq.co.uk) for routine Sanger sequencing of plasmid segments and PCR products.
-Wallace lab code is 2248, and the lab address as the invoice address.
-Sign up for an account on https://dnaseq.co.uk and ask to be added to the lab list.
-Please use our spend-down account that currently costs £3.50 per sequencing reaction.
-
-To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
-Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
-Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to:
-
-```
-DNA Sequencing and Services
-Medical Sciences Institute
-School of Life Sciences
-University of Dundee
-Dundee
-DD1 5EH
-UK
-```
-
-You can then just put the envelope in the Mail Out box in Swann foyer.
-
-
-We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so we expect to do more whole-plasmid sequencing and less Sanger sequencing of segments, from now on.
-
-
-## Whole-plasmid sequencing with Plasmidsaurus
-
-There are Plasmidsaurus dropboxes at Chancellor's Building, Little France and at the Institute of Genetic and Cancer, Western General. Plasmidsaurus (https://www.plasmidsaurus.com) offer whole-plasmid sequencing at $15 / sample, see their website for details.
-
-You can drop samples in the box directly, or via internal mail. To send by internal mail. Put your sample packet/envelope in an internal mail envelope marked "Chancellor's Building Reception, Plasmidsaurus Dropbox, Bioquarter/Little France" or "Institute of Genetics and Cancer Reception, Plasmidsaurus Dropbox, Western General Hospital Campus".
-
-Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/). We use a shared lab account to order, details can be found within the group datastore in */admin/useful_information/plasmidsaurus_account.rtf*.
-
-Collections:
- - Western General, every Thursday at 4 pm.
- - Little France, 1st Thursday of each month at 9am.
 
 
 # High-throughput sequencing at WTCRF genetics core
