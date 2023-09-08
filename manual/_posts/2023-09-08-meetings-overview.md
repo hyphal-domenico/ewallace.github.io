@@ -8,8 +8,8 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated November 2022*
-{: .no_toc }
+# Meetings - *updated September 2023*
+{: .no_toc 3
 
 This page covers basic expectations for meetings in the lab:
 
@@ -31,15 +31,18 @@ Lab meetings are the regular opportunity for the whole group to come together to
 Please schedule other responsibilities to avoid lab meetings where possible.
 Lab meetings are a mutually respectful and supportive environment.
 
-Lab meetings can take various formats:
+The goal of lab meeting is for everyone in the room, including the presenter(s), to learn things that are useful to their work.
+
+Lab meetings can include various formats:
 
 * Research update - led by a single lab member, is most common
 * One-slide meeting -  everyone presents one slide on their recent work
+* Standup style - everyone updates with one thing they have done or learned recently, one goal for the next week, one thing they need help on, in at most 5 minutes each. See [manual page on standup](/manual/standup)
 * Guest presentation from someone outside the lab
 * Journal clubs - one or more lab members lead discussion of a relevant paper
-* Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting
+* Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting, 
 
-Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
+We are trying a new experiment in autumn 2023 of combining a round table somewhere between 1-slide and standup style, then a main presentation.
 
 Currently Edward is organising the lab meeting schedule.
 The lab meeting schedule is updated on the lab outlook calendar, and discussed every so often on slack or in-person at lab meetings.
@@ -48,18 +51,22 @@ Please give at least a week's notice of any changes to the schedule, as it is mu
 
 ## Timing
 
-Lab meetings are **09:30-11:00 Wednesdays** in Waddington 1.07 (through summer 2023).
+Lab meetings are **15:00-17:00 Wednesdays** in Waddington 1.07 (through summer 2024).
 
-* 9:15 someone hopefully volunteers to make coffee?
-* 9:30 prompt, presentation starts
-* 10:45 latest, show the last slide
-* Discuss any other lab business
-* 11:00, everyone should leave
+The aim for timing is:
 
-We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The current timetable seems to work well as long as we are disciplined about starting on time.
+* 14:45 someone hopefully volunteers to make coffee?
+* 15:00 prompt, start of round table with 5 minutes each
+* 15:45 latest, discuss any other lab business
+* 16:00 latest, start of main presentation (research update/journal club/ tc.)
+* 16:45 latest, show the last slide
+* 17:00, everyone should leave
+
+We will try this for at least the month of October 2023 and evaluate how it goes.
+We will have to be disciplined about timing given that we are trying to fit in more parts.
 
 
-## Giving a Research update lab meeting
+## Giving a Research update presentation
 
 The purpose of these lab meetings is to communicate and to exchange useful ideas, not to simply "update", nor to impress.
 This will usually be a talk with slides, with sub-goals:
