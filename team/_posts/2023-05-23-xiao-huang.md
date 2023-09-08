@@ -10,9 +10,8 @@ github: Yellowloo
 ORCID: 
 scholar: 
 image: /assets/images/team/xiao-huang-2023.jpg
-alum: false
+alum: true
 ---
 
-Xiao Huang is a Msc student studying Drug discovery and translational biology. She joined the Wallace lab in May 2023 and is working for her dissertation project "Investigation of mRNA untranslated regions' role in gene regulation and cell fate" with [Weronika Danecka](wernoika-danecka).
-
-
+Xiao Huang studied for an MSc student in Drug Discovery and Translational Biology at Edinburgh
+She joined the Wallace lab in May 2023 for her dissertation project "Investigation of mRNA untranslated regions' role in gene regulation and cell fate" with [Weronika Danecka](weronika-danecka).

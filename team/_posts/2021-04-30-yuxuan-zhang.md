@@ -9,7 +9,7 @@ twitter:
 github: zhangyuxuannn
 ORCID:
 scholar:
-image: /assets/images/team/yuxuan-zhang-2021.jpg
+image: /assets/images/team/Yuxuan-Zhang-2021-pic.jpg
 alum: true
 ---
 
