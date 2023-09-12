@@ -141,10 +141,11 @@ This ensures the item is delivered to the right Stores and which is helpful for 
 
 For example, posters for conferences.
 
-1. Get in touch with the [King's Buildings Copy Centre](https://www.ed.ac.uk/printing/photocopying) and find out the price of the poster you want. Email kbcopy@ed.ac.uk or call them.
-2. Fill in the Interim Purchase Order Request Form (it's on slack/orders), including the quoted price of the poster from the Copy Centre, and the full grant code (6-digit cost centre, 6-digit grant code).
+0. Plan ahead, send your poster for printing 1-3 working days before you need to pick it up. This means ask colleagues inc. Edward to give comments on your poster 1-2 weeks in advance.
+1. Get in touch with the [King's Buildings Copy Centre](https://www.ed.ac.uk/printing/photocopying) and find out the price of the poster you want. Email in pdf format to kbcopy@ed.ac.uk or call them. 
+2. Fill in the Interim Purchase Order Request Form (it's on slack/orders), including the quoted price of the poster from the Copy Centre, the project code (8-digit, underscore, 8-digit, ask Edward or your PhD program). The Task number is *1* and the expenditure type is *"Consumables"*.
 3. Return the form to the Copy Centre, kbcopy@ed.ac.uk
-4. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB (follow the signs).
+4. When the Copy Centre emails you to say the poster is ready, pick it up from JCMB 2300 (follow the signs).
 
 
 
