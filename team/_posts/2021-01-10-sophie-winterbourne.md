@@ -10,7 +10,7 @@ github: swinterbourne
 ORCID: 0000-0001-9109-285X
 scholar: 
 image: /assets/images/team/2021-01-18-sophie-winterbourne-pic.jpg
-alum: true
+alum: false
 ---
 
 Sophie is studying a family of pseudoenzymatic double-stranded RNA binding proteins defined by a domain-associated with zinc fingers, using a combination of computational and experimental approaches.
