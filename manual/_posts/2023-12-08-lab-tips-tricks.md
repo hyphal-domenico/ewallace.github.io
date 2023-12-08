@@ -37,12 +37,12 @@ Currently in the lab Liz and Domenico are the people who know most about using P
 After logging in using single sign-on (SSO, also known as EASE password) click on the "procurement" tab, then the "shop" button.
 
 The [University procurement site has details of the approved university suppliers.](https://www.ed.ac.uk/procurement)
-Also for "punchout", that is ordering through a supplier's own website using the university's account, see [catalogue supplier list August 2022](https://www.ed.ac.uk/sites/default/files/atoms/files/supplier_catalogues_and_supplier_punchouts_-_august_2022.pdf).
+Also for "punchout", that is ordering through a supplier's own website using the university's account, see [approved supplier page](https://uoe.sharepoint.com/sites/Procurement2/SitePages/Approved-Suppliers.aspx).
 
 Some reagents are in-stock on campus at stores locations.
 [This page has a list of the different stores and an up to date list of items available, including order codes. It gets updated regularly.](https://www.ed.ac.uk/procurement/stores-operations)
 
-Here is [School of Biological Sciences People and Money Help Site](https://uoe.sharepoint.com/sites/Biology/PeopleandMoney/SitePages/Home.aspx)
+Here is [School of Biological Sciences People and Money Help Site](https://uoe.sharepoint.com/sites/SchoolofBiologicalSciences-PeopleMoney)
 
 
 ## Get the address, VAT, and intended use right for orders
@@ -71,7 +71,7 @@ If you are a PhD student or other person with your own funding, you may wish to 
 
 To order via the IDTwebsite:
 
-- **Sign in**: We have an account for the lab, username ehughes,  ask someone for the password.  
+- **Sign in**: We have an account for the lab, username `Wallace Lab`, email wallacelabrna@mlist.is.ed.ac.uk,  ask someone for the password.  
 - Order your oligos. If you have previously designed
 - **Click**: Continue  
 - **Click**: Add to cart  
@@ -81,7 +81,7 @@ To order via the IDTwebsite:
 - Enter the VAT Number: 592 9507 00  
 - **Click**: Continue  
 - **Select**: Oligocard  
-- Enter the oligocard Number. Lab oligocard as of 2023 is **818805841067**.
+- Enter the oligocard Number. Lab oligocard as of Dec 2023 is **818812219378**.
 - Add your email address  
 - **Click**: Submit order  
 
@@ -106,7 +106,7 @@ For quantitative PCR primer design there are some other important tips:
 Note: we should update our protocol to include these tips
 
 
-# Sending and delivering reagents (NEEDS UPDATING Nov 2022)
+# Sending and delivering reagents (NEEDS UPDATING Dec 2023)
 
 To send things to another lab or request from elsewhere, you can use FedEx or DHL arranged via the Stores team.
 The procedure is basically the same if you are sending or receiving.
@@ -151,14 +151,14 @@ For example, posters for conferences.
 
 # Dry ice
 
-Dry ice is stored in the blue insulated canister in the Freezer room in Waddington basement.
-Make sure to read & respect safety and risk assessments: dry ice causes burns.
+We have a temporary solution for obtaining dry ice.
+First check the dry ice box in the freezer room to see what's available.
 
-We buy dry ice from [Chemistry Stores](https://www.chem.ed.ac.uk/research/facilities) in the [Joseph Black building](https://www.ed.ac.uk/maps/maps?building=0632).
-
-1. It is theoretically possible to use People & Money to purchase dry ice, usually 2x 10kg bags.
-2. Go to chemistry stores with a trolley, another person, and insulated gloves. If in doubt ask a servitor for directions - it's past the mass spec room.
-3. Collect dry ice, bring it back on the trolley, and deposit it in the blue canister. Be careful because dry ice is heavy and dangerously cold. That's why you need the other person, the trolley, and the gloves.
+Stevie (building manager at Ashworth) has confirmed that we can take dry ice from the supply at Ashworth as they usually have spare. Please don’t take the entire contents of the box at one time though.
+ 
+The box of dry ice is in the Ashworth 2 loading bay. The door from the outside is locked by the Stores staff at 4pm, or you can go through the building but must have a swipe card to get back in.
+ 
+If anyone isn’t sure how to find it, please give Sean, the Ashworth building assistant, a call on 07827 845717 to show them.
 
 
 # DeNovix / nanodrop
