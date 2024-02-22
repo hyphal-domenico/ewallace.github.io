@@ -9,7 +9,7 @@ twitter:
 github: gabin-rousseau
 ORCID: 
 scholar: 
-image: 
+image: /assets/images/team/default-member.png
 alum: false
 ---
 
